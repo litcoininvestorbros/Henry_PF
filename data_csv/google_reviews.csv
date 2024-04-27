@@ -1,128 +1,179 @@
 ,user_id,name,time,rating,text,pics,resp,gmap_id
-287508,1.1578019709026627e+20,John Davis,1468186578110,4,,,,0x89b7b7bd5fe3628f:0x45a4aef9b3c23a21
-441439,1.0488823388848048e+20,Antonio Piner,1527274272130,1,Ghetto way too ratchet...who ever manages this establishment needs to be shot,,,0x89b7b98c346f2077:0x780ce0ecb662e95e
-45373,1.0872805611716765e+20,H D,1570675016295,5,,,,0x89b7c81f79388f17:0x8e4c687b22210784
-11707,1.0712093476741662e+20,"Thomas Howard, Sr",1604294719891,5,Excellent service.  Thank you.,,"{'text': 'Thanks for the review!', 'time': 1604327041589.0}",0x89b7b7ba72b3e7c5:0xb32e220146a4df8
-463962,1.0708029684622157e+20,Peter Chevere,1583708857531,5,,,,0x89b7b9d057449397:0xf81739625ddf7c39
-251226,1.0018281185755057e+20,Natalie Reed,1580591953096,5,,,,0x89b7b64bfd853a3d:0x603d1999c9518ff6
-300203,1.0666181978844753e+20,Clarence Gandy,1533151586639,5,Got go next year,,,0x89b7b781f2379b11:0x3754e7dedeca404e
-503528,1.1012503060278587e+20,"Maciej 'Matt' Golonka, MBA, AFC, MFP",1553376455598,5,Great place but a bit pricey,,,0x89b7b7ae1b8a2d1d:0xc337d5dc9ef1f2d6
-509819,1.0687783712203928e+20,Alex Harman,1574391913026,3,,,,0x89b7b822c2f8607b:0xec7ae2725b0baede
-343263,1.1814586576441754e+20,Henry Barnett,1541166388245,3,,,,0x89b7b807cdfa4aaf:0x8c76ea8b5c3fc573
-53707,1.0117281750659434e+20,Evan Stephens,1496583389528,1,"They seem to truly dislike having customers; if the employees I encountered had their druthers, they would sit and gossip and play on their phones for the entire shift. Be warned, if you do attempt to buy something, you'll be met with stony faces, rudeness, outright mockery, and occasionally lies to cover their misinformation. Stay away; past its prime.",,,0x89b7c9d4a5b808cd:0x959599df958156a3
-301025,1.0752558426876366e+20,Mc Kween,1505010430104,4,"Very good! Good food, good service, and great outdoor seating.",,,0x89b7c9c2f82b201b:0x3826c2d98bba3936
-111158,1.003093396280435e+20,Mike Powers,1621360087888,5,,,,0x89b7b7807e6a3799:0x73797c90ed41d5cf
-27846,1.0245593229659018e+20,Janette Carroll,1579883666648,5,,,,0x89b7b7b77beaaaab:0x46ee513152d63150
-40960,1.0969110697179487e+20,Joe Waddy,1557442155809,4,,,,0x89b7b807b0fa4395:0x1e9e32d595a00180
-552839,1.1619702408080323e+20,Angela Diop,1515936242209,4,,,,0x89b7c7f39a147aa1:0xa2cb64c2f92b81e1
-469391,1.0593980404002986e+20,jamila h.,1520569748721,4,"Great food. I wish the menus included all of the Japanese liquors available, too. Everyone was really welcoming and service was great!","[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipOM7LZIqfhtIn04bzZa-lwGtiVIaENrmdTUjwtM=w150-h150-k-no-p'],
-       dtype=object)}                                                                                                ]",,0x89b7b7916cba6095:0xb0ad91a02bd45281
-467223,1.1841883955206224e+20,Haris Hadzimuratovic,1519442955326,4,"Easy to get in, good service, kinda painful to leave after the show. Get there early to get a seat actually facing the stage.",,,0x89b7b7b8ef9e8747:0xa8aa34d710ceb965
-270667,1.0432148966721407e+20,Jowanda Six,1570100236168,5,,,,0x89b7b7876e5ec839:0xaeab3278c6b40a49
-135325,1.0617033507942805e+20,Corrie Davidson,1402075377935,2,"This review pains me to write it. I love Kimpton hotels and have never had a bad experience anywhere in the country - until now. I'm not sure if my room was uncharacteristically awful (we do have a corporate discount) or if people are just so blown away by the kitsch factor and free happy hour that they don't notice the details. When I entered my room it had a damp and musty feel. The decor was disjointed at best with a tacky sheer curtain dragged across a back wall doubling as a ""closet."" This closet had a shelf nailed up over a door to another... room? hallway? portal to hell? The bathroom vanity was stained, chipped and worn away. The minibar was cute faux retro but always locked - and they never gave me the key. Actually a note here, the team behind Kimpton's global and local social media channels are stellar and actually sent someone to unlock the minibar my first night. Unfortunately calls to the front desk on following nights did not yield any results. Overall the fairly large room came across haggard and definitely not on par with other Kimpton properties. I was sent a follow up survey after my stay and based on my responses had a manager reach out to assure me that the hotel knew about these issues and would soon be launching an extensive remodel. I'll hazard a repeat visit post-refurbishment, but until then will stay elsewhere when in DC.",,,0x89b7b7ea845c99b7:0x17e46b5d96f05911
-135925,1.183745702595877e+20,CHRIS CAMERON,1545653743099,3,Staff is young and seemed more interested in talking to each other opposed to taking or even finishing my order.,,,0x89b7b796369c8afb:0xd88a8608402bc68a
-102464,1.159518335876625e+20,Marc Howayek,1483028118791,5,,,,0x89b7b7a4093c36b5:0x20103015e565b3e
-511294,1.0336672836491598e+20,J K,1485864435527,4,Excellent food and service as always!,,,0x89b7b78ce14835d9:0x27218b4f38da3858
-183511,1.1616335166603556e+20,Steven Boyd,1510767371802,5,"Fun and lively atmosphere, with excellent cocktails.",,,0x89b7b7fa7b99da81:0xf6762daaedef2a24
-520133,1.1592804130425133e+20,Sharon Hicks-Jones,1564816396118,4,,,,0x89b7b87856a532a7:0xa6d1d55f3dfc4396
-477804,1.04813573750747e+20,Logun Baker,1597114004530,4,"Clean, safe and easy to use",,,0x89b7b76123402559:0x66751e3add2b5ca5
-33272,1.0960560030421162e+20,Emil Kerenji,1541076796735,5,,,,0x89b7c81d5ed3d189:0xe880aa2e807bfbcc
-237659,1.1130300583384198e+20,Skylar J' PR Agency Social Media Management Company,1555803824781,5,My client  Aurora Lloyd is performing today,,,0x89b7b770a2c940a3:0xd865485dd3b020cb
-387084,1.0347364953808724e+20,Raheem Williams,1517352599271,1,Vegan,,,0x89b7b9b4a3811bf5:0x748f29675f16e80e
-480241,1.1069442279830399e+20,Mark Nozaki,1511220284890,4,,,,0x89b7b9d690440221:0x9f90fcb4e010cc1e
-264217,1.122753496807281e+20,Brent Thomas,1558458608801,5,"Fantastic and I was blown away by it. Only $15 entry fee and worth every penny. At the time I was there they had a display on The Queens of Egypt . Fabulous!! Like being in the Cairo Museum itself. Lots of statues, sculptures and artifacts to enjoy and read about. The display is extensive with many mummies and sarcophagi to enjoy. Incredible.
-I talked to an employee of NatGeo who turned out to be the video and sound technician for Natgeo films and he introduced me to the director of the Museum.
-Friendly  warm  and personable people. Highlight of my day.",,,0x89b7b7bf153e003d:0xde90b5753f0441fa
-90955,1.1252658816999786e+20,Trey Hicks,1439243468526,5,"Amazing ramen, the atmosphere you'd expect from a ramen shop, and great chilled house sake.  I got the Shoyu Ramen for my first visit. Added in corn and butter.  Was tasty and filling. Looking forward to many more visits into the fall and winter.",,,0x89b7b73aab846c17:0x64520a673457796e
-89846,1.1661772689689277e+20,Teresa Patterson,1532991542323,1,,,,0x89b7b8ccd755a029:0x750de189b5c535d0
-347378,1.0850688047978168e+20,Leonard Tyson,1515938578974,5,Love the stadium seating and the Dolby sound,,,0x89b7b64e98dd7af1:0x61763e365ebdff70
-481590,1.063338523755956e+20,Alex DiCaprio,1480691530886,5,"18th street features a revolving array of themed nights from Brazilian to dance music.  This bar/club has an amazing atmosphere and pulls an extremely diverse crowd.  Drinks are expensive but also poured heavy handedly...which depending may or may not be a good thing.   The outdoor area has another bar and DJ that allows smoking.  It also features a fireplace room, a couch/table service area, a dance floor with live music, another bar on the second floor with live music and sometimes even a third area. So you get it, plenty of space and lots of people.  The place 18th street really shines in keeping the crowd diverse with their changing music nights.  I recommend trying out the club on various nights just to get a taste.
-
-One note, there is a cover after 11 and you need to have shoes and pants..no flip flops or shorts for guys.",,,0x89b7b7b8888a717b:0xe2eeebf181e49255
-284486,1.1831125288508285e+20,Shaina Ziggler,1618173809789,5,"OK, I am incredibly late posting this well-deserved 5-star review. It was an icy cold New Year’s - January 2, 2021. I was Not in the mood to leave my hotel. And I decided to order delivery at the Park at 14th. It was incredibly simple process to place my order over the phone with no wait time. And less than 30 minutes I was greeted by a pleasant gentleman named Joshua. He was friendly and he explained everything that was included in my Park at 14th box, down to the utensils and napkins (if you’ve been following me for a while…I always appreciate!).
-
-I made one suggestion to Joshua on his way out. I encouraged The restaurant to consider adding more options for us health-conscious foodies. As for myself, I am a pescatarian but I’d love to invite family to dine here. A few of them are vegan lovers and vegetarian lovers. Just a suggestion!
-
-Joshua did explain they will take that into consideration but also pulled up the menu options which reflects more than what I thought. **In my opinion...it’s great start 😉",,,0x89b7b795c270e095:0x78e923bd9ff778d6
-278265,1.1464992992450222e+20,Ethan Baron,1530064470224,4,,,,0x89b7b83235fe85b3:0xc9f58466d44effd7
-487197,1.0847589476845676e+20,D'Angelo Burks,1582327657755,5,,,"{'text': ""Happy to know you had a good visit, D'Angelo! Hoping to see you here in the future. -Vernon"", 'time': 1582820829245.0}",0x89b7c81d1fab2ea1:0xa69d1b4196a75422
-255659,1.15036501658571e+20,Harris,1432504248706,4,Great space and a wide variety of beers.,,,0x89b7b9d1a34b6fc3:0xabd5835eff011f75
-455080,1.0646321494123515e+20,Pinky Adrien,1519225354250,2,"I would have given this place one star if it wasn't for the service I received from my waiter, he was great but that alone doesn't make up for the quality of this restaurant. There is not a lot to choose from on there menu and after settling for the brick chicken I was told that they didn't have it. Halfway through the meal my date and I were asked to move to another table because of a large party that was scheduled to attend the restaurant. This request was totally unacceptable and I chalked it up to poor planning. The food was just mediocre, nothing to write home about. I will not be going back to this dive a second time.",,,0x89b7b7be8dd6254b:0x35629c4259de22f7
-298157,1.01540472896219e+20,Heleen Raes,1513296775011,5,"I really enjoy coming here, it's good for a quick visit and you'll always discover new plants! They have a lot of unique flowers too, for example the corpse flower. During Christmas time they have really beautiful decorations too, definitely worth going!","[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipOcAsnw8z5T_irjaEo-IH5IzYABYF8X0QUX-FLe=w150-h150-k-no-p'],
+244360,110650839458654069913,David A,1516496343160,4,,,,0x89b7b791adeb6423:0xdb8adc6052b91f85
+192506,117494475324631998846,Benny Padilla,1491058729610,3,,,,0x89b7b7c1dff26fff:0xcd4f1d035cce59fd
+292140,101295469496628438955,Hannah Sloss,1542341432051,3,,,,0x89b7c9b999fd2a49:0x9aaab6dde1fdbbdf
+331972,111730247966169371691,Anthony Barahona,1593734504260,4,,,,0x89b7c8180eeb52ab:0x603411827ff1e969
+369465,107550990186071796697,Marcus Webster,1566666649030,5,,,,0x89b7b879abe0482b:0xc06e80bba0167d04
+351067,111980654713748646423,Emily Belcher,1535212577279,5,"Great place and good food. Location is a bit dodgy, but good knowledgeable staff, good wine list and great food. Good for gluten free. Flavours are great, and so is presentation. I'd go back for sure.",,,0x89b7b7ea92828093:0xfbbc16a2cca00d43
+323155,102799218071654287265,Tammy Smallwood,1581818431715,5,,,,0x89b7b85002550089:0xb70b4ac72a2f3e79
+153073,112852171610431203073,Aman AtPeace,1568675556014,5,,,,0x89b7b832498bc863:0x54c365b8a7c83238
+20528,103512585622406140131,Olivia Y.,1504981412107,4,Excellent food and good for big groups. Though I must say that I'm partial to the one in Orlando at the Florida Mall.,"[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipPuyzCwW3K0m3oybwnKKeuCewclglf1OQmADHeS=w150-h150-k-no-p'],
        dtype=object)}
- {'url': array(['https://lh5.googleusercontent.com/p/AF1QipPEg4D6ognRE7j_6gbxJkG-gfdTeqmwYxxuw89i=w150-h150-k-no-p'],
-       dtype=object)}                                                                                                ]",,0x89b7b780d4824e1d:0x9d76b2fe03d27f20
-343999,1.0678823708776548e+20,Yvonne E Meugang,1563034343472,4,,,,0x89b7b8eccf639649:0xceb9ef2c9e9ae72a
-490719,1.0365056691689352e+20,Alexander Ramsey,1528900864607,5,,,,0x89b7b7976efa6a15:0x4a5feaf06225556e
-82261,1.0354394051898376e+20,Juan Pillot,1513779679546,4,,,,0x89b7b791f8d52bdf:0x8498093f05b0bec3
-155226,1.1052135468799354e+20,Juan Diaz,1542135115786,5,,,,0x89b7b7b2a6cdb923:0xf2cf33baec75f34e
-56900,1.0580341467380238e+20,Charles Simpkins,1607729815454,5,Wonderful food and drinks 👌,,,0x89b7c818bc24de1f:0xde21e8c82aac6f0d
-495115,1.0890382476533175e+20,Jean Johnson,1543685928372,5,Great but her and fries.,,,0x89b7b795e6927a6b:0x755fcd9e1dcce82b
-11646,1.0989950599852404e+20,Austin Dempewolff,1535762425381,2,,,,0x89b7b624b7e7bb7f:0xaab1cdfcf5ecf5a3
-38086,1.0690288750308637e+20,Michael Deeb,1578863595391,5,,,,0x89b7c81cdf5e29a3:0xa8d14f2c05cdefa6
-382695,1.007975096108722e+20,Haisam Ido,1523222728049,4,,,,0x89b7b7c8a7700675:0x338204aeb3d76c40
-431213,1.0374974678647413e+20,Audrey Hall,1546480182650,5,,,,0x89b7b770c5db0577:0x7d13569e785b097b
-537558,1.1689002007285329e+20,Arkady Sorokin,1478818416162,4,,,,0x89b7b7cf62b9c913:0x56bd5189ffa9b70c
-426565,1.069494606738247e+20,Nick Reese,1524682410156,5,,,,0x89b7b82dd39f2805:0x8e299594c535dc98
-245194,1.0903755223949019e+20,Liz T,1538273143706,4,Food is much improved post renovations. People are great. Service was a little slow but can't beat the views.,,,0x89b7b64c532b8177:0x48a6753ec0fb62ac
-203268,1.104527357940811e+20,Sheleada Rawlings,1554237477060,5,Cool,,,0x89b7b78dddc1700d:0x3e000ad3bcdd285b
-525469,1.1059784098576889e+20,SJJDKSODKWLE,1583597811871,5,,,"{'text': ""We're glad you visited us! We look forward to seeing you here again soon. -Cusbah Management"", 'time': 1583778872046.0}",0x89b7b83e33ceb147:0xe37f99a7baaae46b
-81265,1.165242530999901e+20,Tim Gaul,1554048170310,5,Great place for kids and adults alike. Opens early.,,,0x89b7c9c1b58af7eb:0xd3026e5a67041cbd
-334909,1.0582154192848771e+20,Jeff Shubert,1531600485604,4,,,,0x89b7b9ccdaa4e175:0xcea9b603e5f69f3e
-14032,1.1509559242107799e+20,Nick Beek,1616850827817,5,,,,0x89b7b79a259b1bc5:0x45d930a3efa92ca7
-380267,1.1637730943312644e+20,Naheed Mann,1486066710729,5,Absolutely love this place! It's a great place to grab the best cupcakes in town! The pistachio flavored cupcake is a fav! And the coffee and tea aspect is a plus! Love every sweet they which means everything tastes yummy! Have taken many people to this place who have also loved it! If you have a sweet tooth this place will do the job and much more!!!,,,0x89b7b64c77125887:0xe1d712a0d4705b54
-472457,1.0443256147541185e+20,Ben B-R,1557544630318,5,Very nice!!!,,,0x89b7b7918467d295:0xc64daaa4f0a5411c
-15403,1.1160604940122338e+20,Ziad Shihab,1374543244336,4,,,,0x89b7b7b888f8bdb5:0x5ec4426b5dd8d4b0
-69998,1.1733110195964273e+20,shawn ramoutar,1583189852758,4,It's Chipotle,,,0x89b7b7fcade18c11:0xa6335b4b1ce7bbc4
-288685,1.0329891460178959e+20,Alana Willis,1554681295181,5,,,,0x89b7c8411c519e85:0xc66a4f92c560c9f7
-486767,1.0707139327219745e+20,Theresa Westry,1470117750544,5,,,,0x89b7b807d3a00ed9:0x460d3947cd05f032
-324920,1.0780765249779871e+20,Mônica Ng,1537045373257,5,,,,0x89b7c9ea135835c7:0x91ffbf7711729050
-500938,1.1800811508304239e+20,Donnell Emerson,1618858778515,5,Friendly staff.,,,0x89b7b9cc0e9ba06f:0x12dcba37ea0afc57
-141040,1.1669402059183597e+20,Alfred Jiggetts,1556456874761,5,,,"{'text': ""Thanks for the 5-star rating, Alfred! We're glad to hear that you are pleased with our services!"", 'time': 1556646667553.0}",0x89b7b869f3d77b23:0xa493363badc0a382
-42454,1.0973611977930691e+20,Richard Conroy,1577189266715,3,,,,0x89b7c9e3623cd5b3:0x47ea71865b699874
-327237,1.1252137836331259e+20,Barbara T,1572459751832,4,I like this place the service is great at least  for me,,,0x89b7b822f7af0a6f:0xad8c4d72bd532c1a
-105329,1.1115551944741957e+20,Jake Smith,1533913250036,5,,,,0x89b7c863d41be6c7:0x9bb4ec6c51b0666c
-206984,1.169300737223895e+20,John Gentry,1548934352205,5,,,"{'text': 'Dear John,\n\nYour top scores are received with full appreciation and on behalf of all of us in Georgetown, we look forward to welcoming you again, hopefully, one day soon.\n\nWarm Regards,\n\nThe Watergate Hotel', 'time': 1549025102075.0}",0x89b7b7b2b79a3b6d:0xc7748db45c4c9750
-146969,1.0578371818112637e+20,Wanda Murphy,1581307920417,3,,,,0x89b7c7bc9b8951c7:0xd4a786d49a8f3489
-500036,1.0448408431730273e+20,Jerald Davis,1559424540193,1,,,,0x89b7c86933764efd:0x209acc07aeddf712
-303342,1.0969746229592577e+20,Borys Pierov,1466962213013,4,Great customer service!,,,0x89b7b6496499fb73:0x26315099f5431598
-346968,1.1390877425145568e+20,James Weingarten,1329091200000,4,,,,0x89b7b7e66b7ef933:0xc95b3b505be5af41
-271106,1.0611130665229589e+20,Edwin L,1616813509194,5,,,,0x89b7b7876e5ec839:0xaeab3278c6b40a49
-217487,1.0366225728935243e+20,Rachele Penn Martin,1497314020911,5,,,,0x89b7b81edef0ff85:0xec6c205384a213c
-391303,1.1757997395257016e+20,CeMeGo,1515020653978,5,Excellent place to get a Bacon Egg and Cheese on a croissant.  The coffee is good.  Very nice place to people watch.  The music they choose to play here is really enjoyable as well.,,"{'text': 'Thank you So Much!', 'time': 1515028135495.0}",0x89b7c818a4d90217:0x39814c87fb570125
-338970,1.1661396888023232e+20,E Johnson,1612906711362,5,"Pizza was great, I will be back!",,,0x89b7b7b72fa2cead:0x1afec8a4cff3f04c
-498019,1.101137206008196e+20,Linda Walker,1508007088024,1,,,,0x89b7b869ed86bdfd:0x5047098671f7d0dd
-175231,1.1279218183871853e+20,Michiel DH,1548006457709,4,,,,0x89b7b7e7996d3637:0xb2aadcf36acd2c5
-532269,1.0951442664792026e+20,Sam Jackson,1519052379395,4,Fabulous venue. Stellar service,,,0x89b7b7712828b479:0x180c2aea80ca1413
-9078,1.1171628786647366e+20,Miles McKenna,1542776404949,5,Very friendly team. Karen always does a nice job for me. Range of prices depending on stylist.,,,0x89b7b7b8f082cf21:0xa920d44db8a2f6f
-99790,1.018100688296263e+20,Austin Graff,1593739439768,4,"The Fort Totten Trash Transfer Station is the largest dumpsite run by the city. It's located in NE D.C. near Catholic University alongside railroad tracks. The station itself is large and from my opinion, efficiently run. Despite lines, they get you in and out quickly. One of the managers, Jose, was very helpful and friendly.
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipNwNCotTAj6eSVYOB33N-G06jd2C8MEq62qxE9l=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipO-vQicP5TZgHG3TtR0K7FhAQ6o8_U_3OLsJynZ=w150-h150-k-no-p'],
+       dtype=object)}                                                                                                ]","{'text': 'Olivia, thank you for your continued loyalty! We are happy to hear how much you enjoy dinning with us and we look forward to welcoming you back again soon!', 'time': 1505241756665.0}",0x89b7b7cf82cc2d27:0x278363d8ce5a677e
+247900,111305691513054062599,Christopher Adams,1566164678174,5,Great place to have a hotel party,,,0x89b7b7925ae8038f:0x9e577816653a60c5
+37299,113015332024507571513,kelly davis,1572524622400,5,First time there it was excellent,,,0x89b7b99628ed8105:0x563cb3520ffb0ac9
+121621,107865719730558235051,CARMENCITA STEWART,1537786292502,3,,,,0x89b7b9c9225bb539:0xb2b9006b54e028ef
+366167,116769569675289785190,Norman Palmer,1571154391701,5,,,,0x89b7b790cced0241:0xaaffd99415e7f8f8
+108727,111597627725973017718,Tory Gundrum,1516970011198,4,,,,0x89b7b7c3fa437569:0xcb5c24a56bd84832
+201746,113291089264542025505,Chris Carlsson,1519563856187,4,modern building to enjoy contemporary art,,,0x89b7b79cb8691d87:0x350463c3785a7599
+271355,109438475444769217508,Moira Dhaliwal,1400082108152,5,"While not cheap, every dish here is delicious. Know what you want, so don't be afraid to ask questions. I like this location better than the Penn Quarter location, it has better acoustics - thus your dinner isn't as loud.
 
-One thing to note is that they don't take dirt or cement blocks.
+EVERYONE recommends the Palak Chaat, and with good reason. YUM!",,,0x89b7b7b6fa3a4b31:0x3598c466df89eab9
+408894,101946480782064909844,Dianne Conway,1503772497435,3,,,"{'text': ""Hi Dianne, thank you for taking the time to leave a review for Open City.  We use these reviews as training tools improve our Guest's experience.  Would you be able to let me know what we could've done during your visit to warrant a 4 or 5 star review?  When you came, who your server was, what you ate?  Thanks again for your time, and I hope to hear from you soon.  Shannon (shannon@TrystTradingCompany.com)"", 'time': 1503946185184.0}",0x89b7b7d475b6a215:0x2d2c687a50d7b2e0
+304852,103627612312668337043,Marla holland,1531836580016,5,"Omg let me first say I love Union Market but I never Went to Buffalo and Bergan..I went all over the market but today I said let's trying something new.. It was so worth it , the food was amazing.  The service was excellent and the mimosa was super delicious.  I will be back","[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipOGX1STS2je5kKg_FVBI_2XW_WV_DxkkNUlz_r3=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipO99vN-TO3yXtBPKVZRJxxsN1jkydEOHI9wEcfl=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipNF3yjZ13yX959CtZhpxNxJEpo1fTipVAdntsW2=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipNEtKL-5aXf7Y0sbM3W6agIiin4dn8NTeSqTSU2=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipNpwIoko3-ivKDehuL4yDQcPKXeh-AePOg1rPFn=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMoHztN2zRNe47BDIc2pmBEJvOFUd9SMT0jht3w=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipP4z9K8-eT_M-pFh6JcBci8kid3Ejm7YD8YQ8EW=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMWF6bEFlZV_Wykea07hTKlz4VAacgwYeOrPUHY=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipNI7iGhrKsS9-Yn_TQy7penRtGOKIWwSRwm-BRx=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipOa1pVkmelh8Sn2DrHweYIahYB2JuOLcqmXo_rS=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipPrZqDEjICn08ZlFqk3d3hrJy4Cxbj_KuBS9kkv=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipOYwoiPIp4eGfRAwE3zEtIcgvjuzSmOaOLrRBLm=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMi4kI2aW3tcVMwO2J5CIcN_m-q6EisDUjjndRL=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMKBOo1dgAwuTgAJ8EyWISr04Okycttx1PFM_VI=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipPS-fpV9JotwzSFfZ7FwFSf1-0XSUGnb1-gk4xl=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMCWKPvRwejYZEvq2A3xXAsVcVSDxw_puxlCLRY=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipOGOKo8wCx2iNsDF1YV7c7kTaK81hYb1YGDHI9p=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMORcWloI3m54gZijErI_BgHmq4Nsh0OXziEZMi=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipOZMHrBxaY89R8g06V1suWALs07owjuW-C-eNIK=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipOFooPPLsDLUdmVeoc342b1TfteNDoMiOR1bXLw=w150-h150-k-no-p'],
+       dtype=object)}                                                                                                ]",,0x89b7b810949c7c51:0xc68f9f76d478dffb
+32379,100182302438894391529,Victor Booth,1569792336297,5,It is a great venue !,,,0x89b7c7f4898cb745:0xe3ca4fbbe553a150
+152494,105831899705285458904,Stephen Decker,1561071487707,4,Great location for breakfast or lunch.  The pancakes are the best.,,,0x89b7b832498bc863:0x54c365b8a7c83238
+26840,102232663547737195438,Ahmed Zalat,1567382405189,5,,,"{'text': 'Thank you! for taking time to review Mr.ahmed\nPlease! Come again', 'time': 1567593227252.0}",0x89b7b7ea6c16681b:0xa51d9ff09b28a76f
+51841,100945925285242902761,Anna IG,1617130121388,2,Half the people could have waited outside. Too crowded forcovid and not following 6 ft rule. Thank you for the j&j. I double masked.,,,0x89b7c788b90abc23:0xf4d0f9af7c0c0a99
+289494,106562599223299201242,naghmeh z,1468596644422,5,,,,0x89b7b7b6d21cab87:0xa48e71d67a22f9f8
+252973,105569268351515149521,Aaron Landry,1498995987656,5,,,,0x89b7b78bec2a5107:0x277acd08924b16a8
+102151,109777896804658189870,Blake Ourso,1354225507023,5,"I recently had Tandoori food for the first time in my life.  It happened to be at this place.  I'm glad it was as this food is simply amazing.  I found myself eating the leftovers within 24 hours, every.single.time.
 
-They also take and give compost at this location.",,,0x89b7c7dc6077277d:0x8510ee662ace1da1
-162835,1.1649028346613111e+20,David Lipscomb,1368984289725,3,,,,0x89b7b7e4e228e9c5:0x3161fd12357c29b8
-487308,1.0586954990088933e+20,Frank Pezzanite III,1565049580590,5,,,"{'text': 'Frank, thank you for stopping by! We look forward to seeing you back our way. -Thank you, Vernon', 'time': 1565448982257.0}",0x89b7c81d1fab2ea1:0xa69d1b4196a75422
-503928,1.0159636777101242e+20,Laura Delgado N.,1545957641342,5,"(Translated by Google) Very nice, I would repeat it
+They have this fish-bread stuff they give you when you sit down which comes with two sauces and they are pretty good.  I like eating the green one because it makes me feel like I'm on nickelodeon or something.  Ahhh to be mentally young...
+
+So we sat there and just got water to drink.  My date actually got a mango-yogurt-style drink.  It wasn't what I would call something I would always order, but it was unique and tasty.
+
+I'm not sure what exactly to order but I can tell you that if you order anything with the words ""Tikka Masala"" in it, then it will be simply amazing.  The first time I went I ordered the fish tikka masala.  She ordered the chicken.  She cheated though as she had been here before.  Either way they were both great dishes.  They give you an option of mild, medium or hot.  We both ordered medium.  Mine was more subtle and gentle but still loaded with great flavor.  Her's had some tang to it and a little kick and it was by far the better dish.  It's ok though because I enjoyed some leftovers the next day.   We also shared an order of the Rotti, which is just bread but goes very well with the sauce of your food.
+
+I've since then ordered via livingsocial takeout from them multiple times.  They are cheap, prompt, and very tasty.  Also they give you plenty to eat and you can ask for extra rice and I've never had them actually charge me for it.
+
+If you're skeptical, just think of these dishes as any kind of rice and gravy dish you can think up and then add a touch of love, some seasoning, spice, and happiness to it.  Eat up!",,,0x89b7b8330fc4db81:0xac753592da34e36b
+301171,111145183893679638618,C Hogan,1514730401348,4,,,,0x89b7c9c2f82b201b:0x3826c2d98bba3936
+470858,115080550159008752729,Eric Davis,1547773893254,4,,,,0x89b7b83d3fb44983:0x15cb9ff54bcf0869
+548351,102450931966306006342,Stephen Bass,1558911043688,4,,,"{'text': 'Dear Stephen Bass,\n\nThank you for your time in sharing your kind review and please visit us again.\n\nBest,\nMike Anderson\nGeneral Manager', 'time': 1558963058761.0}",0x89b7b770c841f1ef:0xacaa2b996f16d132
+47329,105155329612303438011,1 1,1511555955276,5,Great ride on Black Friday,,,0x89b7b64ba47b7f7b:0x7d8be15bb547c596
+18170,114552992768227306395,Catherine Wooden,1567333488713,4,It ok but need some better store. And they need to fix the elevator old people can not walk up all them step to the upper  level .,,,0x89b7b869e69df215:0xcb4834e9217da59a
+24047,103249045517691963549,Malcolm Olatunji,1467493944416,1,"Poor salesmanship, slow service, and high prices.",,,0x89b7b7c6008987e9:0x37ef3de92479dee7
+50192,114005213883817499777,John Jason Fallows,1449786125357,4,Nice,,,0x89b7b79b0c44317f:0x5405d60f162a2e0a
+276258,113885161644542693459,Liron Brosh-Shahin,1536537231964,5,,,,0x89b7c9c2580341dd:0x8fcdd5ebb953d74a
+402087,102220563543221951977,reshaun matchem,1560077574591,1,I have been coming to this carry out since 2nd grade with my parents now I'm 39 and now the  Staff is rude food is not as good as it used to be and prices are high  a permanent fixer in SE that has went down hill.,,,0x89b7b9b8f64cd345:0x26b7fae5977e8998
+334095,100109158013293785700,Devon Tensley,1614718488341,5,,,,0x89b7c9ea135835c7:0xe3aa09c6ce581949
+374806,111608475111098078695,Kesavan Kushalnagar,1515120143059,5,Good,,,0x89b7b7cf4681ff6d:0x4d7a22b638d0da87
+442989,116456579498114928803,Stephen McCulloch,1608974346049,5,Good Dominican spot that gave us nice portions and tasty food for a reasonable price.,,,0x89b7c821e75254cb:0x3941e192961c78b5
+194483,105297865743930457300,Jermar Rountree,1560973559427,4,,,,0x89b7b7e840493a51:0xba0b871309d105bf
+464943,117339625964270430993,Williams Ivory,1614536661212,5,Great place to shop,,,0x89b7b8420af8caa1:0x9fa6f82febb4527b
+298412,112612722612204482801,Diana Blackwelder,1526860881835,5,Check out online calendar of events daily. Beautiful varied collections. Friendly staff and volunteers. Climate controlled areas. Christmas time decir and large train displays too.,,,0x89b7b780d4824e1d:0x9d76b2fe03d27f20
+102023,112835351623518901962,Stephanie,1592428685571,4,,,"{'text': 'thanks so much!', 'time': 1592435245227.0}",0x89b7b727fe6e7c6f:0xcf12031a4a0afb1a
+436578,117887716828657975962,Ben M,1538583820409,5,Great DC standby. Good place to go for simple breakfast or lunch. Sandwiches are tasty and well portioned. Really nothing to complain about.,,,0x89b7b648e20c83b3:0x3b2ec584555b54e7
+228382,111505085409723479672,Tracye Redd,1600708292394,5,,,,0x89b7b78dffcd605f:0x346bd320baa8fa5c
+272795,100785769086519659160,Chris Garra,1513443342654,3,,,,0x89b7c9d364548427:0x6db86e12b68d8d23
+31063,116340728467680808398,Howard E Mitchell,1567211676582,4,Been going here for years,,,0x89b7c789d37e239f:0x1d2d100e023003a3
+1550,101665440617262901533,Darrell Thomas,1496579208910,4,,,,0x89b7b9cb0df33d11:0x4b40480aa1445485
+184116,108015488626629500805,Ernest Simms,1542061247162,5,"Started holiday shopping at Best Buy. Good start, got what I needed",,,0x89b7c821d7205bad:0xcdd58b6939aa3269
+351666,117397032691866070991,Lauren Devine,1567029607854,5,"Incredible portions, flavor, and price. I’m hooked.",,"{'text': 'We appreciate the kind words and 5-star review, Lauren!', 'time': 1567055038788.0}",0x89b7b7c63b3a8f6f:0x6bae94ec7e3274a9
+62142,114219824949865924694,Andreas Mayr,1525124221538,5,,,,0x89b7b77ad36fd1f9:0x4f4ffa02ad294ecb
+90106,109869437627075167542,Lavender Kelley,1505607806074,4,,,,0x89b7b82502c58d15:0xb7cc8464d32bb827
+102342,108565759463271616197,Mario Reyes,1518038885127,5,,,,0x89b7b6491bef838d:0xfce6934dd2fd0a72
+344076,103705487717782174402,Ryan Mack,1573043677911,4,,,,0x89b7ba0655269d43:0xb1122bb796e5386a
+319487,107003854530114355010,Ms. T Morgan,1565839292662,3,Chipotle gets 3 stars. The service is getting so bad.  The people working are rude. I'm never going back to this location.,,,0x89b7b9d6e8467395:0x9bc7ff4b7c099572
+480355,102544721942170598956,Maureen Sullivan,1580100131858,3,,,,0x89b7b9d690440221:0x9f90fcb4e010cc1e
+195326,113011324554116454618,Cristián Labra,1469059714979,4,"(Translated by Google) Good prices for gifts, recommended
 
 (Original)
-Muy lindo, hasta lo repetiría","[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipNeip21mshtz8oXlIgekFR1zTf_Muf7Jn3mJ6B1=w150-h150-k-no-p'],
-       dtype=object)}                                                                                                ]","{'text': '(Translated by Google) Thank you! We look forward to your return!\n\n(Original)\n¡Gracias! Esperamos su regreso!', 'time': 1546605432178.0}",0x89b7b790df53acd7:0x2daa496f108ab5f4
-490907,1.0077353708824607e+20,face kiya,1557373932239,5,Big hotel at heart of DC walking distance to the white house & monument trump hotel air space mousem.,,,0x89b7b7979cdd8be3:0x79b949ea780c8702
-501666,1.0564031571120613e+20,Nancy Cosner,1572386316658,5,Very tasty.  I had kale tempura ramen.  Would recommend.  I've had food from here delivered and visited the brick and mortar.  Does not disappoint,"[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipNATL-7dGk2_WwcFFLdTrPSMgx5AAgH9F0Tx3-k=w150-h150-k-no-p'],
+Buenos precios para los regalos, recomendable",,,0x89b7b793a0850de7:0xa2a0e7afd1d552ff
+374871,113835870902994496005,Tanisha Tanisha,1572568766116,5,Great service. Stop by and take part in the sampling event with @IslandGirlSpirits,"[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipOGG4NX57Noy70vUIA3nLXWzrhKXefUYVVPayGY=w150-h150-k-no-p'],
+       dtype=object)}                                                                                                ]","{'text': 'Thanks for your nice words.', 'time': 1572572837346.0}",0x89b7c7eb9943a387:0x5c3eef0c3296eced
+324940,115327939964999932530,Joyce Nicholas,1523083008071,3,,,,0x89b7c9ea135835c7:0x91ffbf7711729050
+425959,103700897330093371237,John Baker,1580302346415,4,This place is going to be awesome when it's done but it's still partially which makes it a little difficult to navigate,,,0x89b7b7b096c76e75:0x214d5d0dd0e9295a
+51354,107181274036014898383,Reginald Greene,1542723895358,5,Live the subs and cookies,,,0x89b7c7e7be980a1b:0xc5ab23684e7239b4
+411400,101916374659543848141,Nicholas Roland,1530640849131,5,,,,0x89b7c8195c8491e3:0x8e8b752fd31ee0a0
+352689,113734237579549231490,Anthony Hennig,1574099887181,4,"Good, but very small dog park",,,0x89b7b7d741066d97:0x7903d0097d38592d
+142674,103900351194661429459,Ken Yu,1576621337720,4,,,,0x89b7b7bd0d618fb7:0xd0048ad884ba1b83
+443944,115223557776349759239,Herman Morris,1560534061189,5,Been coming here for 60years.still good,,,0x89b7b9ac1d9d3bbd:0xcaf9bf53e3e6ed8f
+18729,109904537969238789919,Christopher Wynn,1532350037317,4,Available,,,0x89b7b869e69df215:0xcb4834e9217da59a
+169303,105373804970756864290,Corey Kiprakis,1575749221583,5,,,,0x89b7b7b886374139:0xfd54e7ec4c33592d
+431748,105593442429382279971,Shanelle Casey,1515969747886,3,,,,0x89b7b84004b060cb:0xd518e0fd15417000
+299733,116947333859446964186,Mary Lu,1575237856406,5,,,,0x89b7b780d4824e1d:0x9d76b2fe03d27f20
+162009,113979626972197781431,Kelly Pirc-Hoffman,1529087246837,5,"Best concert venue!! Amazing sound and anywhere you stand is a great view. Good beer list, each of the three bars always have something slightly different. The cupcakes and coffee you can get there are also high quality!","[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipN0fk7GqRmaoZVrLt0x3Xgc2vXgLHPnLemBq4gP=w150-h150-k-no-p'],
        dtype=object)}
- {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMh0SH2X29h8BNGFzDp6B3Sm9_xbTXTw3Dq6ARL=w150-h150-k-no-p'],
-       dtype=object)}                                                                                                ]",,0x89b7b637b68e0cc1:0x1de9cb86c2867aad
-153609,1.1400779383065715e+20,K Marie Shade,1539613130777,5,,,,0x89b7b832498bc863:0x54c365b8a7c83238
-362295,1.0838856840212359e+20,Rah Graves,1570226907184,5,,,,0x89b7b78e1e84830f:0x45dc1078e9aa3afa
-374542,1.013288195580685e+20,Elizabeth Spomer,1536928916381,4,Ate here when it was the only place open on a Monday holiday on H street.  Tacos are good and hit the spot.  Margaritas are a bit pricey for size and taste.  I would stop again if in area and needed food.,,,0x89b7b83fe9a79295:0x461349863741009b
-426687,1.1226145382592281e+20,zohre nemati,1466856720932,4,Expensive but delicious!,,"{'text': ""Hey Zohre, Thanks for the review! As far as price goes.. we know it's expensive. We make our products with grass-fed, organic milk, whole fresh fruit and the highest quality nuts and chocolates on the market. Just our milk alone, costs 2.5 times more than top-quality traditional milk. Although you can get a cone from Haagen Daz or Baskin Robins at a lower cost, we strive to create a pure, authentic, and honest product. We hope this information is helpful and thanks again for the feedback! For updates follow us on instagram :D https://www.instagram.com/pitangogelato/"", 'time': 1480010229786.0}",0x89b7b832fb04689f:0x8c2c0fb35300aca5
-500324,1.1012755271302049e+20,Joyce Barnes,1533582321347,5,,,,0x89b7b9ab5134afe3:0xc9af44ac449a1e8c
-9097,1.1513942290844818e+20,Sandra Cabrera,1559181704860,1,"(Translated by Google) It is a very beautiful place
-
-(Original)
-Es un lugar muy ermoso",,,0x89b7c83715a39083:0x746a24c7f325a05d
-444358,1.1532802974043049e+20,Tracy L,1567322856004,4,Guess it was my lucky day! I received all HOT FRESH JUST COOKED FOOD 😋,,,0x89b7b9f7360947a9:0x7dde84301ecd991a
-348560,1.0069664338986902e+20,Christine Mitchell,1550520305011,5,,,,0x89b7b64c4344f1a9:0x4659725332f74e77
-60634,1.0113692271674956e+20,Gayan Kalhara,1551022062130,5,,"[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipNPKXtBTWgWfsfKFbLWkhpxgc87ccGduC8DNc4=w150-h150-k-no-p'],
-       dtype=object)}                                                                                               ]",,0x89b7b7af07c24ef5:0x9e6811afde3e9f12
-162851,1.1497724500737789e+20,Steven Jordan,1549203706997,4,,,,0x89b7b7e4e228e9c5:0x3161fd12357c29b8
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipOANw-mu_exeF9hXVNktxVApFBxtobH3JDhuHrw=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipNo4w9scUVFIR0D_AxpPQ1wrRtr2cVkAg2tT4Dr=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipPQH5PBaWjvgal0WuVXm6KakwTJtSbmZbiVK5-3=w150-h150-k-no-p'],
+       dtype=object)}                                                                                                ]",,0x89b7b7e4e228e9c5:0x3161fd12357c29b8
+409560,108962721937836023516,Corey DeAngelis,1552254075224,5,"Huge portions for the price. The chicken parm was delicious, and the tiramisu to die for.",,,0x89b7b78fe1723c7f:0xe0f2245d49ea746e
+209863,115335853454747221097,Andrew Sedlack,1506603709971,5,,,,0x89b7b78da5b33f25:0xc54f018d705f5589
+397814,107258895538854112665,Roberto Peña-Berrios,1544467146817,4,"The location is very convinient, near metro and several bus routes.  Place is clean and well deorated.  The services was outstanding and the food was really good.  I have to go back.","[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipN8wk_7MmTHj73dcrTmmYK-gJuXV1Rhwcfv5dhI=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipN9Z7g9q_AEnFezrVoyoBGyYrdD0rt5BiFIlyqa=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipNCJPGpj0_FAqIgJ6xiT3c00FbMobipEbshLpao=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipMJ-wO_wU7o9gy9J05oCA3hh1kNsJGKdV5cR2VX=w150-h150-k-no-p'],
+       dtype=object)}                                                                                                ]",,0x89b7b832362c3acb:0xea220ec843e26e12
+175288,112408211546739123564,Steven McCord,1578763173534,5,,,,0x89b7b7e7996d3637:0xb2aadcf36acd2c5
+372376,103089036114209421610,Denisse Romero,1543794446172,4,"Cozy place, good burgers, good for groups",,,0x89b7b64947056bc5:0xc876192f249f7946
+186696,103500132614272456266,Timothy Holloway,1549322764919,5,,,,0x89b7c81f38e9007f:0x1173e4be652e2e68
+240366,111575623940519852273,Robert McKeown,1516719008548,4,"Service was very good.  Interesting menu and food was quite good, not exceptional.  Moderately priced.  Nice casual.  Not too noisy to have a conversation.",,,0x89b7b7e7bc5500f5:0x2df2f2c8c5bad393
+217416,114796312627166518474,H. Deme M. Sambo,1529984127720,4,,,,0x89b7b81edef0ff85:0xec6c205384a213c
+214407,107805775427073939312,Christopher Timm,1580386651349,2,"This place has poor way finding, and unhelpful staff. More interested in talking on phone or chatting with another employee to help.",,,0x89b7b7ed3715b137:0x32771de147fa5350
+447401,112030451840328078411,Mirian Aquino,1527380407139,5,,,,0x89b7b797e578d369:0x1a1db16851d4fe2c
+419427,112071683998826595452,Forest Ray,1561852286126,5,,,,0x89b7b77d647a0535:0xf73450b2f1c2e2e4
+285570,108991625247350052215,Burvell Austin,1523394209016,5,,"[{'url': array(['https://lh5.googleusercontent.com/p/AF1QipPxNcjI_WQHlPCwcQABWx-Nj4MeDPAF3J_a324b=w150-h150-k-no-p'],
+       dtype=object)}
+ {'url': array(['https://lh5.googleusercontent.com/p/AF1QipPgX16wv66dAdOnX2gflnpsIOHvm_gyAFVZXj5q=w150-h150-k-no-p'],
+       dtype=object)}                                                                                                ]",,0x89b7b7bec053b8bd:0xda70d229c346c166
+445730,102784477658296860675,KellCon Consulting Services LLC,1597954139285,5,"Fast friendly, focused service. Clean establishment.",,,0x89b7b9a08efbb715:0x911d90bbcad68fd3
+79914,111928343321358047893,Kristina Mosby,1609854390727,1,Worst place in the world to shop! The African ladies here are mean & rude for no reason! If you spend your money here your a FOOL! The only nice person in the building is security at the door.....,,,0x89b7b9a05c695f89:0x20dce658078a21f3
+153265,103969745012198923891,CRYSTAL,1579141298290,5,,,,0x89b7b832498bc863:0x54c365b8a7c83238
+314382,112150651328051826528,Galina Goncharova,1480158691897,4,Lunch service can be slow here,,,0x89b7c996cf8c580d:0xc976c247de5c4401
+537687,114171250555745426412,Thomas Smith,1598718357746,5,,,,0x89b7b7cf62b9c913:0x56bd5189ffa9b70c
+28739,116468508548727040270,Kenny Coates,1572271687201,5,Relaxing atmosphere!!!!,,,0x89b7c98cec1c359b:0x6100108f1906ee50
+447972,111180097745888438422,Ayaba Choko Carole,1553994995114,5,,,,0x89b7c81f7ce554e1:0x5567a196287fc947
+85926,104824989941509759792,Jerome Campbell,1506461997722,3,Nice visit,,,0x89b7b7a326396429:0x4104cbf6238fca1
+490302,111115226511783023537,Elizabeth Mayers,1498573675685,4,Smaller venue but offers great shows,,,0x89b7b7976efa6a15:0x4a5feaf06225556e
+358927,114356941826379332042,Jacqueline R. Campbell,1538153147996,4,"The wait is LONG....
+But the Staff Nice",,,0x89b7b91a8738205d:0xc7ae1b5e126166b0
+86841,109661043554391889128,XAVI SAL,1562983723328,2,Very dark,,,0x89b7b7e7e8599aed:0x69ffcab62ab095d0
+183584,106767065523757037428,M C,1512074905148,4,,,,0x89b7b7fa7b99da81:0xf6762daaedef2a24
+321364,115942815033342389161,Andrea Powell,1573649050300,5,,,,0x89b7b7bb8f60450d:0x615bf297ceea39ee
+247309,106401423241568197925,Glenn Matthews,1578441742170,5,,,,0x89b7b7bd7f171c81:0x457d5aa5dfadfa75
+477548,101334160629796335162,JOANNA London,1559399037501,4,I like their taboule better than Giant's.,,,0x89b7b622a2c69699:0x61feb239ab5fd893
+151222,101881423821443427415,J John,1517783548952,5,,,,0x89b7b7080fff0651:0xdcdad96e3d1ac11e
+447644,117935474443292877583,Kianna Coleman,1579708897042,5,Love it,,,0x89b7c81f7ce554e1:0x5567a196287fc947
+182751,106810453057981519611,Shawn Emerson,1610602690354,5,,,,0x89b7b80a6f50851b:0x723acd8fd530d527
+412187,115126996597823945846,Aditi Banerjee,1541615349336,4,,,,0x89b7b7c600b78aeb:0xd2cc717a3c36cd57
+299378,103807331223206927450,Rodrigo Ferro,1575173185803,4,,,,0x89b7b780d4824e1d:0x9d76b2fe03d27f20
