@@ -9,9 +9,17 @@ Al agregar nuevos directorios o realizar cambios significativos en la estructura
 ## Directorio Raíz
 - `/data_csv`: Contiene CSVs de muestras (100 filas random) de datos de cada tabla del dataset.
 - `/docs`: Contiene la documentación del proyecto.
+- `/notebooks`: Contiene Jupyter Notebooks utilizados para programar y documentar procesos de ETL y EDA.
 - `/src`: El código fuente del proyecto.
 - `/tests`: Casos de prueba y scripts de pruebas.
-- `/notebooks`: Contiene Jupyter Notebooks utilizados para programar y documentar procesos de ETL y EDA.
+
+## Directorio de Documentación (`/docs`)
+- `estructura_dir.md`: Este documento.
+- `Google dataset - Diccionario.pdf`: Documentación para los puntos finales de la API.
+
+## Directorio de Notebooks (`/notebooks`)
+- `categorias_a_csv.ipynb`: 
+- `transforms_a_parquets.ipynb`: 
 
 ## Directorio de Código Fuente (`/src`)
 - `/`: 
@@ -21,11 +29,9 @@ Al agregar nuevos directorios o realizar cambios significativos en la estructura
 
 ## Directorio de Documentación (`/docs`)
 - `estructura_dir.md`: Este documento.
-- `Google dataset - Diccionario.pdf`: Documentación para los puntos finales de la API.
+- `Google dataset - Diccionario.pdf`: 
 
 ## Archivos de Configuración
-- `.env.example`: Un archivo de ejemplo de variables de entorno.
-- `package.json`: Metadatos del proyecto y dependencias para un proyecto Node.js.
-
+- `.`: 
 
 
