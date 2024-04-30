@@ -15,7 +15,7 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 
 ## Dir de documentación (`/docs`)
 - `estructura_dir.md`: Este documento.
-- `Google dataset - Diccionario.pdf`: Documentación para los puntos finales de la API.
+- `Google dataset - Diccionario.pdf`: 
 
 ## Dir de notebooks (`/notebooks`)
 - `categorias_a_csv.ipynb`: 
@@ -26,10 +26,6 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 
 ## Dir de pruebas (`/tests`)
 - `/`: 
-
-## Dir de documentación (`/docs`)
-- `estructura_dir.md`: Este documento.
-- `Google dataset - Diccionario.pdf`: 
 
 ## Archivos de configuración
 - `.`: 
