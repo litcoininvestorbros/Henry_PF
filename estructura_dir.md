@@ -14,12 +14,13 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 - `/tests`: Casos de prueba y scripts de pruebas.
 
 ## Dir de documentación (`/docs`)
-- `estructura_dir.md`: Este documento.
 - `Google dataset - Diccionario.pdf`: 
 
 ## Dir de notebooks (`/notebooks`)
-- `categorias_a_csv.ipynb`: 
-- `transforms_a_parquets.ipynb`: 
+- `eda_google.ipynb`: 
+- `eda_yelp.ipynb`: 
+- `etl_categorias_a_csv.ipynb`: 
+- `etl_transforms_a_parquets.ipynb`: 
 
 ## Dir de código Fuente (`/src`)
 - `/`: 
