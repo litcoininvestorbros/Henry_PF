@@ -21,8 +21,9 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 - `eda_yelp.ipynb`: 
 - `etl_categorias_a_csv.ipynb`: 
 - `etl_transforms_a_parquets.ipynb`: 
+- `exploracion_yelp.ipynb`: 
 
-## Dir de código Fuente (`/src`)
+## Dir de código fuente (`/src`)
 - `/`: 
 
 ## Dir de pruebas (`/tests`)

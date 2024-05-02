@@ -1,3 +1,6 @@
 dask[dataframe]
 pandas
 pyarrow
+
+sqlalchemy
+psycopg2-binary
