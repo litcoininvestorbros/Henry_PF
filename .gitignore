@@ -2,3 +2,5 @@ data/Google/
 data/Yelp/
 data/raw
 misc/
+src/utils/__pycache__
+tests/
