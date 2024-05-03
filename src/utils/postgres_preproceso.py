@@ -1,3 +1,6 @@
+"""Funciones para inicializar base de datos en PostgreSQL
+"""
+
 import json
 import pandas as pd
 from sqlalchemy import create_engine
