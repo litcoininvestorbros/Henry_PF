@@ -7,11 +7,15 @@ Este documento describe la organización de directorios y archivos. Sirve como g
 Al agregar nuevos dirs o realizar cambios significativos en la estructura de dirs, actualice este documento para mantener congruencia.
 
 ## Dir raíz
+- `/assets`: Contiene Shapefiles, imagenes, y otros recursos.
 - `/data_csv`: Contiene CSVs de muestras (100 filas random) de datos de cada tabla del dataset.
 - `/docs`: Contiene la documentación del proyecto.
 - `/notebooks`: Contiene Jupyter Notebooks utilizados para programar y documentar procesos de ETL y EDA.
 - `/src`: El código fuente del proyecto.
 - `/tests`: Casos de prueba y scripts de pruebas.
+
+## Dir de recursos (`/assets`)
+- Archivos Shapefile, imagenes, y otros recursos.
 
 ## Dir de documentación (`/docs`)
 - `Google dataset - Diccionario.pdf`: 
