@@ -25,7 +25,10 @@ def cargar_data_google(path_data: str) -> dict[pd.DataFrame]:
         # Unir a df_review
         df_review = pd.concat([df_review, df], ignore_index=True)
     
-    return {'sitios': df_sitios, 'review': df_review}
+    return {
+        'sitios': df_sitios,
+        'review': df_review
+}
 
 
 def cargar_data_yelp(path_data: str) -> dict[pd.DataFrame]:
