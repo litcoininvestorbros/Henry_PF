@@ -1,6 +1,4 @@
-data/Google/
-data/Yelp/
-data/raw
-misc/
+data/*
+docs/enlaces.md
 src/utils/__pycache__
 tests/
