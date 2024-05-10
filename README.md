@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img src="imagenes/logo.jpeg" alt="wink" width="200" height="150">
 </div>
 
@@ -50,7 +50,17 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 
 ## Plan de trabajo
 
+Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera.
 
+<div style="text-align: center;">
+    <img src="imagenes/sprint1.png" alt="wink" >
+</div>
+<div style="text-align: center;">
+    <img src="imagenes/sprint2.png" alt="wink" >
+</div>
+<div style="text-align: center;">
+    <img src="imagenes/sprint3.png" alt="wink" >
+</div>
 
 ## Flujo de datos
 
