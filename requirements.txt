@@ -1,5 +1,9 @@
 dask[dataframe]
+geopandas
+matplotlib
 pandas
-psycopg2-binary
 pyarrow
-sqlalchemy
+seaborn
+shapely
+#psycopg2-binary    # Uso en 'tests/'
+#sqlalchemy    # Uso en 'tests/'
