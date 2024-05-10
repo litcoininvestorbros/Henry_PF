@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="assets/imagenes/logo.jpeg" alt="wink" width="200" height="150">
+    <img src="imagenes/logo.jpeg" alt="wink" width="200" height="150">
 </div>
 
 ## Descripción del Proyecto
 
-Este proyecto se enfoca en el analisis exploratorio de datos para la cadena de restaurantes Darden Continuing Operations, donde analizaremos su restaurante LonghHorn Stearkhouse y por medio de un analisis de la informacion y con una propuesta de trabajo definiendo Kpi's buscaremos la manera de mejorar sus calificaciones en las plataformas de recomendaciones como Google y Yelp.
+Este proyecto se enfoca en el analisis exploratorio de datos para la cadena de restaurantes Darden Continuing Operations, donde analizaremos su restaurante  y por medio de un analisis de la informacion y con una propuesta de trabajo definiendo Kpi's buscaremos la manera de mejorar sus calificaciones en las plataformas de recomendaciones como Google y Yelp.
 
 ## Descripción del Conjunto de Datos
 
@@ -15,36 +15,38 @@ El conjunto de datos utilizado en este análisis contiene información sobre com
 Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darden en la región de Filadelfia y sus alrededores a través de la plataforma Yelp.
 
 # Equipo de trabajo
-
+<h1 align="center">Data Engineering</h1>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Andres Mozo</h3>
-  </div>
-  <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Felix Santana</h3>
   </div>
+  <div style="display: inline-block; margin: 20px;">
+    <img src="imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <h3>Jonathan Gutiérrez</h3>
+  </div>
 </div>
+<h1 align="center">Data Analytics</h1>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Catalina Castelblanco</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Marcelo Trinkard</h3>
+    <img src="imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <h3>Andres Mozo</h3>
   </div>
 </div>
+<h1 align="center">Machine Learning</h1>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Facundo Sagle</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Jonathan Gutiérrez</h3>
-  </div>
+    <img src="imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <h3>Marcelo Trinkard</h3>
+  </div>  
 </div>
 
 
@@ -52,20 +54,35 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 
 Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera.
 
+Para diagramar y organizar las tareas a realizar, elaboramos un diagrama de Gantt, en donde se indica el responsable mediante el color de la barra, si tiene a cargo un sector o un conjunto de sector el color será violeta, indicándose que sectores están involucrados, por otra parte, si está a cargo de una única persona en este grafico podemos identificar quien es quien debe realizarla. La extensión y ubicación de la barra indica el periodo de tiempo destinado para esta tarea. 
+
+# Sprint 1
+Como se observa, el primer sprint fue destinado principalmente a poner en marcha el proyecto y hacer un análisis preliminar de los datos y las tecnologías a utilizar.
+
+
 <div style="text-align: center;">
-    <img src="assets/imagenes/sprint1.png" alt="wink" >
+    <img src="imagenes/sprint1.png" alt="wink" >
 </div>
+
+# Sprint 2
+En el segundo sprint los roles van a ser fundamentales, ya que a diferencia del primero que era más general, ahora cada sector tendrá tareas más específicas y relacionadas al rol definido. Sin embargo, al ser el objetivo principal de este sprint finalizar la infraestructura del proyecto, debe tratarse de forma prioritaria y los demás sectores deben  brindar soporte de ser necesario.
+
 <div style="text-align: center;">
-    <img src="assets/imagenes/sprint2.png" alt="wink" >
+    <img src="imagenes/sprint2.png" alt="wink" >
 </div>
+
+# Sprint 3
+
+En el tercer sprint se busca tener los modelos de ML y el dashboard listo en la primera semana para que en la segunda semana se pueda hacer un correcto storytelling y una presentación más elaborada que las anteriores.
+
 <div style="text-align: center;">
-    <img src="assets/imagenes/sprint3.png" alt="wink" >
+    <img src="imagenes/sprint3.png" alt="wink" >
 </div>
 
 ## Flujo de datos
 
 <div style="text-align: center;">
-    <img src="assets/imagenes/pipeline.jpeg" alt="wink" >
+    <img src="imagenes/pipeline.jpeg" alt="wink" >
 </div>
 
 ## Analisis de los datos
