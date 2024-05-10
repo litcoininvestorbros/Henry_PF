@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="imagenes/logo.jpeg" alt="wink" width="200" height="150">
+    <img src="assets/imagenes/logo.jpeg" alt="wink" width="200" height="150">
 </div>
 
 ## Descripción del Proyecto
@@ -18,31 +18,31 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Andres Mozo</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Felix Santana</h3>
   </div>
 </div>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Catalina Castelblanco</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Marcelo Trinkard</h3>
   </div>
 </div>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Facundo Sagle</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Jonathan Gutiérrez</h3>
   </div>
 </div>
@@ -53,19 +53,19 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera.
 
 <div style="text-align: center;">
-    <img src="imagenes/sprint1.png" alt="wink" >
+    <img src="assets/imagenes/sprint1.png" alt="wink" >
 </div>
 <div style="text-align: center;">
-    <img src="imagenes/sprint2.png" alt="wink" >
+    <img src="assets/imagenes/sprint2.png" alt="wink" >
 </div>
 <div style="text-align: center;">
-    <img src="imagenes/sprint3.png" alt="wink" >
+    <img src="assets/imagenes/sprint3.png" alt="wink" >
 </div>
 
 ## Flujo de datos
 
 <div style="text-align: center;">
-    <img src="imagenes/pipeline.jpeg" alt="wink" >
+    <img src="assets/imagenes/pipeline.jpeg" alt="wink" >
 </div>
 
 ## Analisis de los datos
