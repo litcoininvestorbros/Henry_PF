@@ -69,9 +69,9 @@ Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el traba
 </div>
 
 ## Analisis de los datos
-- [`EDA_preliminar_Google.ipynb`](notebooks\eda_google.ipynb)
+- [`EDA_preliminar_Google.ipynb`](notebooks/eda_google.ipynb)
 : Jupyter Notebook que contiene el código y la narrativa del análisis exploratorio de datos en el archivo de reviws suministrado por Google.
-- [`EDA_preliminar_YELP.ipynb`](notebooks\eda_yelp.ipynb)
+- [`EDA_preliminar_YELP.ipynb`](notebooks/eda_yelp.ipynb)
 : Jupyter Notebook que contiene el código y la narrativa del análisis exploratorio de datos de los archivos de YELP
 
 ## Tecnologias Utilizadas
