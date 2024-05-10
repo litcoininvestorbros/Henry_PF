@@ -1,7 +1,8 @@
+
 *.env
 *.csv
 *.log
-data/*
+data/
 docs/enlaces.md
 src/utils/__pycache__
 tests/
