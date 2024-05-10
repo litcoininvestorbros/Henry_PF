@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="Imagenes/logo.jpeg" alt="wink" width="200" height="150">
+    <img src="imagenes/logo.jpeg" alt="wink" width="200" height="150">
 </div>
 
 ## Descripción del Proyecto
@@ -18,31 +18,31 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="Imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Andres Mozo</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="Imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Felix Santana</h3>
   </div>
 </div>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="Imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Catalina Castelblanco</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="Imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Marcelo Trinkard</h3>
   </div>
 </div>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="Imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Facundo Sagle</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="Imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Jonathan Gutiérrez</h3>
   </div>
 </div>
@@ -55,7 +55,7 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 ## Flujo de datos
 
 <div style="text-align: center;">
-    <img src="Imagenes/pipeline.jpeg" alt="wink" >
+    <img src="imagenes/pipeline.jpeg" alt="wink" >
 </div>
 
 ## Analisis de los datos
