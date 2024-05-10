@@ -1,6 +1,7 @@
+*.env
+*.csv
+*.log
 data/*
-data_csv/
 docs/enlaces.md
-Mage-AI/.env
 src/utils/__pycache__
 tests/

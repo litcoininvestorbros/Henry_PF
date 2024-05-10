@@ -1,0 +1,20 @@
+version: '3'
+services:
+  magic:
+    image: mageai/mageai:latest
+    command: mage start ${PROJECT_NAME}
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      USER_CODE_PATH: /home/src/${PROJECT_NAME}
+      - GOOGLE_APPLICATION_CREDENTIALS=${GOOGLE_APPLICATION_CREDENTIALS}
+    network_mode: host
+    ports:
+      - ${MAGE_PORT}:${MAGE_PORT}
+    volumes:
+      - .:/home/src/
+      - ${DATA_RAW}:/home/mage/data_raw
+    restart: on-failure:5
