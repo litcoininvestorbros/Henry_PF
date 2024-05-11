@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="imagenes/logo.jpeg" alt="wink" width="200" height="150">
+    <img src="assets/imagenes/logo.jpeg" alt="wink" width="200" height="150">
 </div>
 
 ## Descripción del Proyecto
@@ -18,33 +18,33 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 <h1 align="center">Data Engineering</h1>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Felix Santana</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Jonathan Gutiérrez</h3>
   </div>
 </div>
 <h1 align="center">Data Analytics</h1>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Catalina Castelblanco</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Andres Mozo</h3>
   </div>
 </div>
 <h1 align="center">Machine Learning</h1>
 <div align="center">
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Facundo Sagle</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Marcelo Trinkard</h3>
   </div>  
 </div>
@@ -61,14 +61,14 @@ Como se observa, el primer sprint fue destinado principalmente a poner en marcha
 
 
 <div style="text-align: center;">
-    <img src="imagenes/sprint1.png" alt="wink" >
+    <img src="assets/imagenes/sprint1.png" alt="wink" >
 </div>
 
 # Sprint 2
 En el segundo sprint los roles van a ser fundamentales, ya que a diferencia del primero que era más general, ahora cada sector tendrá tareas más específicas y relacionadas al rol definido. Sin embargo, al ser el objetivo principal de este sprint finalizar la infraestructura del proyecto, debe tratarse de forma prioritaria y los demás sectores deben  brindar soporte de ser necesario.
 
 <div style="text-align: center;">
-    <img src="imagenes/sprint2.png" alt="wink" >
+    <img src="assets/imagenes/sprint2.png" alt="wink" >
 </div>
 
 # Sprint 3
@@ -76,13 +76,13 @@ En el segundo sprint los roles van a ser fundamentales, ya que a diferencia del 
 En el tercer sprint se busca tener los modelos de ML y el dashboard listo en la primera semana para que en la segunda semana se pueda hacer un correcto storytelling y una presentación más elaborada que las anteriores.
 
 <div style="text-align: center;">
-    <img src="imagenes/sprint3.png" alt="wink" >
+    <img src="assets/imagenes/sprint3.png" alt="wink" >
 </div>
 
 ## Flujo de datos
 
 <div style="text-align: center;">
-    <img src="imagenes/pipeline.jpeg" alt="wink" >
+    <img src="assets/imagenes/pipeline.jpeg" alt="wink" >
 </div>
 
 ## Analisis de los datos

@@ -5,6 +5,7 @@
 .logs/
 .mage_temp_profiles
 .preferences.yaml
+.ssh_tunnel/
 .variables/
 __pycache__/
 docker-compose.override.yml

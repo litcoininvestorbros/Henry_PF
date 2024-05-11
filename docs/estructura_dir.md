@@ -15,6 +15,7 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 - `/tests`: Casos de prueba y scripts de pruebas.
 
 ## Dir de recursos (`/assets`)
+- `imagenes/`: Contiene imangenes para uso en README.md.
 - Archivos Shapefile, imagenes, y otros recursos.
 
 ## Dir de documentación (`/docs`)

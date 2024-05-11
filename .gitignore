@@ -1,8 +1,11 @@
 
 *.env
+*.cache/
 *.csv
 *.log
+*/__pycache__/
 data/
 docs/enlaces.md
-src/utils/__pycache__
+Mage-AI/mage_data/
+
 tests/
