@@ -6,6 +6,5 @@
 */__pycache__/
 data/
 docs/enlaces.md
-Mage-AI/mage_data/
-
+Mage-AI/mage_data/*
 tests/
