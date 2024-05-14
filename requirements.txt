@@ -1,8 +1,10 @@
 dask[dataframe]
+ftfy
 geopandas
 matplotlib
 pandas
 pyarrow
+rapidfuzz
 seaborn
 shapely
 #psycopg2-binary    # Uso en 'tests/'
