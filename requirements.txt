@@ -1,11 +1,13 @@
 dask[dataframe]
 ftfy
 geopandas
+google-cloud-bigquery
+ipython-sql
 matplotlib
 pandas
 pyarrow
 rapidfuzz
 seaborn
 shapely
+sqlalchemy-bigquery
 #psycopg2-binary    # Uso en 'tests/'
-#sqlalchemy    # Uso en 'tests/'
