@@ -2,7 +2,7 @@ dask[dataframe]
 ftfy
 geopandas
 google-cloud-bigquery
-ipython-sql
+#ipython-sql
 matplotlib
 pandas
 pyarrow
