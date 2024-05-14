@@ -16,7 +16,7 @@ def cargar_brands() -> dict[list]:
     return brands
 
 
-def cargar_data_google(path_data: str) -> dict[pd.DataFrame]:
+def cargar_dataset_google(path_data: str) -> dict[pd.DataFrame]:
     """Devuelve dict de dataframes del dataset
     de Google Maps (un dataframe por tabla).
     """
@@ -41,7 +41,7 @@ def cargar_data_google(path_data: str) -> dict[pd.DataFrame]:
 }
 
 
-def cargar_data_yelp(path_data: str) -> dict[pd.DataFrame]:
+def cargar_dataset_yelp(path_data: str) -> dict[pd.DataFrame]:
     """Devuelve dict de dataframes del dataset
     de Google Maps (un dataframe por tabla).
     """
