@@ -2,6 +2,7 @@
 *.env
 *.cache/
 *.csv
+*.json
 *.log
 */__pycache__/
 data/
