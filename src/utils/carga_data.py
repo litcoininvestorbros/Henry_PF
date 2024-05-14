@@ -3,7 +3,17 @@
 """
 
 from glob import glob
+import pickle
 import pandas as pd
+
+
+def cargar_brands() -> dict[list]:
+    """Devuele un dict de Darden y sus competidores,
+    con una lista de sus repectivas marcas."
+    """
+    with open('./brands.pickle', 'rb') as f:
+        brands = pickle.load(f)
+    return brands
 
 
 def cargar_data_google(path_data: str) -> dict[pd.DataFrame]:
