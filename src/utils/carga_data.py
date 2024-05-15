@@ -3,10 +3,20 @@
 """
 
 from glob import glob
+import pickle
 import pandas as pd
 
 
-def cargar_data_google(path_data: str) -> dict[pd.DataFrame]:
+def cargar_brands() -> dict[list]:
+    """Devuele un dict de Darden y sus competidores,
+    con una lista de sus repectivas marcas."
+    """
+    with open('./brands.pickle', 'rb') as f:
+        brands = pickle.load(f)
+    return brands
+
+
+def cargar_dataset_google(path_data: str) -> dict[pd.DataFrame]:
     """Devuelve dict de dataframes del dataset
     de Google Maps (un dataframe por tabla).
     """
@@ -31,7 +41,7 @@ def cargar_data_google(path_data: str) -> dict[pd.DataFrame]:
 }
 
 
-def cargar_data_yelp(path_data: str) -> dict[pd.DataFrame]:
+def cargar_dataset_yelp(path_data: str) -> dict[pd.DataFrame]:
     """Devuelve dict de dataframes del dataset
     de Google Maps (un dataframe por tabla).
     """
