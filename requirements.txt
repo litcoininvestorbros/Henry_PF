@@ -2,6 +2,7 @@ dask[dataframe]
 ftfy
 geopandas
 google-cloud-bigquery
+huggingface_hub
 #ipython-sql
 matplotlib
 pandas
