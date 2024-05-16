@@ -1,10 +1,6 @@
 dask[dataframe]
 ftfy
 geopandas
-#google-cloud-bigquery
-huggingface_hub
-ipywidgets
-#ipython-sql
 matplotlib
 pandas
 pyarrow
@@ -12,6 +8,11 @@ rapidfuzz
 seaborn
 shapely
 sqlalchemy-bigquery
+
+#psycopg2-binary  # Uso en 'tests/'
+
+huggingface_hub["cli"]
+ipywidgets
 torch
-transformers
-#psycopg2-binary    # Uso en 'tests/'
+ctransformers
+accelerate

@@ -1,11 +1,12 @@
 
 *.env
-*.cache/
+*.db
 *.csv
 *.json
 *.log
 *.zip
-**/__pycache__/
+**__pycache__/
+**.cache/
 data/
 docs/enlaces.md
 Mage-AI/mage_data/**
