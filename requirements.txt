@@ -11,7 +11,7 @@ sqlalchemy-bigquery
 
 #psycopg2-binary  # Uso en 'tests/'
 
-huggingface_hub["cli"]
+huggingface_hub[cli]
 ipywidgets
 torch
 ctransformers
