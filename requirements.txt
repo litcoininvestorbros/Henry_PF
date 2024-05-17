@@ -9,10 +9,11 @@ seaborn
 shapely
 sqlalchemy-bigquery
 
-#psycopg2-binary  # Uso en 'tests/'
-
-huggingface_hub["cli"]
+huggingface_hub[cli]
 ipywidgets
 torch
 ctransformers
-accelerate
+
+#psycopg2-binary  # Uso en 'tests/'
+#accelerate  # uso GPU/TPU
+#sec_api  # uso API de la SEC

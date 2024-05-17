@@ -4,11 +4,12 @@
 *.csv
 *.json
 *.log
+*.parquet
 *.zip
 **__pycache__/
 **.cache/
 data/
 docs/enlaces.md
-Mage-AI/mage_data/**
-tests/
+Mage-AI/mage_data/*
+#tests/
 misc/
