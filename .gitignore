@@ -7,6 +7,7 @@
 *.parquet
 *.pkl
 *.pickle
+*.txt
 *.zip
 **__pycache__/
 **.cache/
