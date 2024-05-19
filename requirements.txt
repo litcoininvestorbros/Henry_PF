@@ -4,6 +4,7 @@ geopandas
 matplotlib
 pandas
 pyarrow
+pynecone
 rapidfuzz
 seaborn
 shapely
