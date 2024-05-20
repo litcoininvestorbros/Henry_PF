@@ -12,5 +12,5 @@ services:
     network_mode: host
     volumes:
       - .:/home/src
-      - ${DATA_RAW}:/home/mage/data_raw
+      - ${DATA_DIR}:/home/mage/data
     restart: on-failure:5

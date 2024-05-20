@@ -139,4 +139,3 @@ En el tercer sprint se busca tener los modelos de ML y el dashboard listo en la 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 50%; border: 1px solid #181717;">
 </a>
 
-

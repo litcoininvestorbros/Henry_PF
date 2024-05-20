@@ -10,11 +10,19 @@ seaborn
 shapely
 sqlalchemy-bigquery
 
+# para modelos ML
 huggingface_hub[cli]
 ipywidgets
 torch
 ctransformers
-
-#psycopg2-binary  # Uso en 'tests/'
 #accelerate  # uso GPU/TPU
+
+# para Reviews-bot
+reflex
+
+#openai
+
+# uso en `tests/`
+#psycopg2-binary  # Uso en 'tests/'
 #sec_api  # uso API de la SEC
+
