@@ -10,7 +10,7 @@ blocks:
   language: python
   name: dataset_yelp
   retry_config: null
-  status: failed
+  status: updated
   timeout: null
   type: data_loader
   upstream_blocks: []
