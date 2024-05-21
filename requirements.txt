@@ -1,6 +1,7 @@
 dask[dataframe]
 ftfy
 geopandas
+geopy
 matplotlib
 pandas
 pyarrow

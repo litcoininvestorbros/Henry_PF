@@ -7,10 +7,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    environment:
-      - GOOGLE_APPLICATION_CREDENTIALS=${GOOGLE_APPLICATION_CREDENTIALS}
     network_mode: host
     volumes:
       - .:/home/src
-      - ${DATA_DIR}:/home/mage/data
+      - ${DATA_DIR}:/home/data
     restart: on-failure:5
