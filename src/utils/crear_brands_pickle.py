@@ -1,15 +1,16 @@
 import pickle
 
 
-def main() -> None:
-    """Crea un archivo pickle de un dict de marcas correspondientes
-    a Darden y sus competidores.
+def crear_brands_pickle() -> None:
+    """Crea dos archivos pickle, 1) un dict de marcas correspondientes
+    a Darden y sus competidores, 2)
     """
     # Diccionario de marcas de Darden y competidores
-    brands = {
+    dict_brands = {
         # Darden brands
         'darden': [
             "Olive Garden Italian Restaurant",
+            "Olive Garden",
             "LongHorn Steakhouse",
             "Cheddar's Scratch Kitchen",
             "Yard House",
@@ -43,9 +44,14 @@ def main() -> None:
         ]
     }
 
-    with open('brands.pickle', 'wb') as handle:
-        pickle.dump(brands, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    lista_brands = [brand for lista in dict_brands.values() for brand in lista]
+
+    with open('./assets/brands_dict.pickle', 'wb') as f:
+        pickle.dump(dict_brands, f, protocol=pickle.HIGHEST_PROTOCOL)
+
+    with open('./assets/brands_list.pickle', 'wb') as f:
+        pickle.dump(lista_brands, f, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 if __name__ == '__main__':
-    main()
+    crear_brands_pickle()

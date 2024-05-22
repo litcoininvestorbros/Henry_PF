@@ -20,10 +20,12 @@ ctransformers
 
 # para Reviews-bot
 reflex
-
 #openai
 
 # uso en `tests/`
+requests
+yelp
+
 #psycopg2-binary  # Uso en 'tests/'
 #sec_api  # uso API de la SEC
 
