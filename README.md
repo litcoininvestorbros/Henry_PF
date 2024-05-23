@@ -82,7 +82,7 @@ En el tercer sprint se busca tener los modelos de ML y el dashboard listo en la 
 ## Flujo de datos
 
 <div style="text-align: center;">
-    <img src="assets/imagenes/pipeline.jpeg" alt="wink" >
+    <img src="assets/imagenes/pipeline.jpg" alt="wink" >
 </div>
 
 ## Analisis de los datos
