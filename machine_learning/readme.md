@@ -25,9 +25,14 @@ Para identificar aspectos negativos en las reseñas de restaurantes, se utilizó
 6.	RudeService: Mal servicio al cliente.
 7.	BadNeighborhood: Ubicación del restaurante en una zona poco atractiva.
 8.	SlowService: Demoras excesivas en el servicio.
+
 Se experimentó con diversas configuraciones y modelos de clasificación múltiple utilizando la librería ScikitLearn, dado que una reseña puede contener más de un aspecto negativo. Se optó por un modelo de máquina de vectores de soporte (SVM) en conjunto con OneVsRestClassifier para facilitar la clasificación múltiple. Es crucial destacar que el modelo incluye un proceso de preprocesamiento mediante TfidfVectorizer, una herramienta de procesamiento de lenguaje natural (NLP) que transforma un conjunto de documentos en una matriz de características TF-IDF, asignando un peso a las palabras según su importancia en un documento y en el conjunto total de datos.
+
 Posteriormente, se propusieron diferentes hiperparámetros y, mediante GridSearchCV, se encontró la combinación óptima para mejorar el rendimiento del modelo. Para evaluar el modelo de aprendizaje automático, se utilizó el F1 Score, una métrica que integra precisión y sensibilidad (recall), ofreciendo un equilibrio entre ambas, lo cual resulta particularmente útil cuando las clases están desbalanceadas. El F1 Score obtenido con la mejor combinación de hiperparámetros fue de 0.59.
+
 El modelo, entrenado con reseñas de otros restaurantes, sirve para predecir problemas asociados a las reseñas de los restaurantes de Darden (o de cualquier otro restaurante). Al recibir una reseña, el modelo produce una lista de 8 elementos binarios, cada uno representando la presencia o ausencia de uno de los problemas mencionados. Por ejemplo:
+
 Reseña: “Good steaks but a little overpriced. More expensive than Outback.” Salida del modelo: [0 1 0 0 0 0 0 0]
+
 La salida indica que el cliente encontró los precios del restaurante problemáticos, lo cual es acorde con el contenido de la reseña. Es importante señalar que el orden de los problemas en la salida corresponde al orden en que se presentaron inicialmente.
 
