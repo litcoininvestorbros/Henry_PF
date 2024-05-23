@@ -11,4 +11,5 @@ services:
     volumes:
       - .:/home/src
       - ${DATA_DIR}:/home/data
+      - ${GOOGLE_CRED_LOCALPATH}:/home/src/geneditor_key.json:ro
     restart: on-failure:5

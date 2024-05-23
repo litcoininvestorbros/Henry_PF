@@ -10,16 +10,22 @@ if 'test' not in globals():
 
 
 @data_loader
-def load_data_from_api(*args, **kwargs):
+def cargar_data_api_yelp(*args, **kwargs):
     """
     """
-    def get_yelp_reviews(business_id, API_KEY=get_secret_value('YELP_API_KEY')):
+    def get_data_yelp(business_id, API_KEY=get_secret_value('YELP_API_KEY')):
         """
         """
         url = f'https://api.yelp.com/v3/businesses/{business_id}/reviews?limit=50&sort_by=yelp_sort'
         headers = {'Authorization': f'Bearer {API_KEY}'}
 
-        respuesta = requests.get(url, headers=headers)
+        try:
+            respuesta = requests.get(url, headers=headers)
+        
+        except Exception as e:
+            print(str(e))
+            return None
+
         if respuesta.status_code == 200:
             # Leer archivo de respuesta JSON 
             reviews_data = respuesta.json()
@@ -34,8 +40,8 @@ def load_data_from_api(*args, **kwargs):
     df_api_reviews = pd.DataFrame()
 
     for b_id in df_darden_y_comp['business_id'].tolist():
-        reviews = get_yelp_reviews(b_id)
-        sleep(0.55)  # rate-limit, para evitar bloqueo de acceso API
+        reviews = get_data_yelp(b_id)
+        sleep(1.05)  # rate-limit, para evitar bloqueo de acceso API
         
         if not reviews:
             continue
