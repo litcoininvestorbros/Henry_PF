@@ -2,11 +2,13 @@ dask[dataframe]
 ftfy
 geopandas
 geopy
+google-cloud-bigquery[pandas]
 matplotlib
 pandas
 pyarrow
 pynecone
 rapidfuzz
+requests
 seaborn
 shapely
 sqlalchemy-bigquery
