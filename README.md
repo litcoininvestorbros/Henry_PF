@@ -62,6 +62,10 @@ Para diagramar y organizar las tareas a realizar, elaboramos un diagrama de Gant
 Como se observa, el primer sprint fue destinado principalmente a poner en marcha el proyecto y hacer un análisis preliminar de los datos y las tecnologías a utilizar.
 
 
+<div align="center">
+  <img src="assets/imagenes/sprint1.png" alt="Logo" >
+</div>
+
 <div style="text-align: center;">
     <img src="assets/imagenes/sprint1.png" alt="wink" >
 </div>
