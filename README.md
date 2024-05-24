@@ -66,30 +66,33 @@ Como se observa, el primer sprint fue destinado principalmente a poner en marcha
   <img src="assets/imagenes/sprint1.png" alt="Logo" >
 </div>
 
-<div style="text-align: center;">
-    <img src="assets/imagenes/sprint1.png" alt="wink" >
-</div>
+
 
 # Sprint 2
 En el segundo sprint los roles van a ser fundamentales, ya que a diferencia del primero que era más general, ahora cada sector tendrá tareas más específicas y relacionadas al rol definido. Sin embargo, al ser el objetivo principal de este sprint finalizar la infraestructura del proyecto, debe tratarse de forma prioritaria y los demás sectores deben  brindar soporte de ser necesario.
 
-<div style="text-align: center;">
-    <img src="assets/imagenes/sprint2.png" alt="wink" >
+<div align="center">
+  <img src="assets/imagenes/sprint2.png" alt="Logo" >
 </div>
+
 
 # Sprint 3
 
 En el tercer sprint se busca tener los modelos de ML y el dashboard listo en la primera semana para que en la segunda semana se pueda hacer un correcto storytelling y una presentación más elaborada que las anteriores.
 
-<div style="text-align: center;">
-    <img src="assets/imagenes/sprint3.png" alt="wink" >
+<div align="center">
+  <img src="assets/imagenes/sprint3.png" alt="Logo" >
 </div>
+
+
 
 ## Flujo de datos
 
-<div style="text-align: center;">
-    <img src="assets/imagenes/pipeline.jpg" alt="wink" >
+<div align="center">
+  <img src="assets/imagenes/pipeline.jpg" alt="Logo" >
 </div>
+
+
 
 ## Analisis de los datos
 - [`EDA_preliminar_Google.ipynb`](notebooks/eda_google.ipynb)
