@@ -6,10 +6,8 @@
  <b>  Potenciación de la Visibilidad y Reputación de las Marcas Darden </b>
 </h1>
 
-<div align="center">
-   <img src="https://www.producebluebook.com/wp-content/uploads/2020/04/darden-logos-web.png" alt="Darden Logos" width="200" height="150">
-</div>
 
+![image](https://logodix.com/logo/2000271.jpg )
 
 
 
