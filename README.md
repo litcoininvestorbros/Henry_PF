@@ -7,8 +7,9 @@
 </h1>
 
 <div align="center">
-   ![image](https://www.producebluebook.com/wp-content/uploads/2020/04/darden-logos-web.png)
+   <img src="https://www.producebluebook.com/wp-content/uploads/2020/04/darden-logos-web.png" alt="Darden Logos" width="200" height="150">
 </div>
+
 
 
 
