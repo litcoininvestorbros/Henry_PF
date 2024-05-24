@@ -47,7 +47,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre com
 Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darden en la región de Filadelfia y sus alrededores a través de la plataforma Yelp.
 
 <div align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/Banner%20Team.png" alt="Logo" >
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/Banner%20Team%20(2).png" alt="Logo" >
 </div>
 
 
