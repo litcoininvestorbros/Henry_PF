@@ -21,8 +21,8 @@ ctransformers
 #accelerate  # uso GPU/TPU
 
 # para Reviews-bot
-reflex
-#openai
+#reflex
+reflex==0.5.0.post1
 
 # uso en `tests/`
 requests
