@@ -1,11 +1,10 @@
 
 <div align="center">
-  <img src="https://logodix.com/logo/2000271.jpg" alt="Logo" >
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/Logo%20Insight%20Final.jpeg" alt="Logo" >
 </div>
 
 
 
-https://github.com/litcoininvestorbros/Henry_PF/blob/main/Logo%20Insight%20Final.jpeg
 <h1 align='center'>
  <b>  Potenciación de la Visibilidad y Reputación de las Marcas Darden </b>
 </h1>
