@@ -2,9 +2,33 @@
     <img src="assets/imagenes/logo.jpeg" alt="wink" width="200" height="150">
 </div>
 
+<h1 align='center'>
+ <b>  Potenciación de la Visibilidad y Reputación de las Marcas Darden </b>
+</h1>
+
+![image](https://www.producebluebook.com/wp-content/uploads/2020/04/darden-logos-web.png)
+
 ## Descripción del Proyecto
 
-Este proyecto se enfoca en el analisis exploratorio de datos para la cadena de restaurantes Darden Continuing Operations, donde analizaremos su restaurante  y por medio de un analisis de la informacion y con una propuesta de trabajo definiendo Kpi's buscaremos la manera de mejorar sus calificaciones en las plataformas de recomendaciones como Google y Yelp.
+Nos complace anunciar una emocionante colaboración entre Darden, la mayor empresa de restaurantes de servicio completo en Estados Unidos, e Insight Latinamerica. 
+
+En Darden, la excelencia en el servicio y la pasión por deleitar a más de un millón de clientes cada día son fundamentales. Con un compromiso inquebrantable hacia sus miembros del equipo y las comunidades que sirven, Darden cuenta con un portafolio de nueve marcas icónicas que destacan en el mercado. En un mundo donde las expectativas sobre las empresas son cada vez mayores, especialmente en temas Ambientales, Sociales y de Gobernanza (ESG), Darden se esfuerza por marcar una diferencia significativa.
+
+En Insight Latinamerica, estamos encantados de asociarnos con Darden para alcanzar este ambicioso objetivo . Con nuestra experiencia en estrategias de marketing digital y gestión de reputación, utilizaremos la plataforma Yelp para aumentar la visibilidad de sus marcas, mejorar la interacción con los clientes y fortalecer su presencia en la comunidad local.
+
+Nuestro enfoque estratégico en Yelp nos permitirá:
+
+Incrementar la visibilidad de las marcas de Darden: Optimizando los perfiles y implementando estrategias de marketing digital, aseguraremos que más clientes potenciales descubran y elijan los restaurantes de Darden.
+
+Mejorar la reputación online: Gestionaremos activamente las reseñas y comentarios de los clientes para mantener y elevar la percepción positiva de las marcas.
+
+Fortalecer la lealtad del cliente: Al interactuar de manera más efectiva con los clientes, no solo responderemos a sus necesidades y preocupaciones, sino que también crearemos una comunidad de clientes leales y satisfechos.
+
+Contribuir al desarrollo local: Darden continuará siendo una fuerza positiva en Filadelfia, participando en iniciativas comunitarias y abordando problemas locales en los que puede tener un impacto significativo.
+
+Estamos entusiasmados por esta oportunidad de trabajar con Darden y confiamos en que esta iniciativa contribuirá a la creación de valor a largo plazo para sus accionistas, a la vez que refuerza su compromiso de servicio a sus clientes y comunidades. Invitamos a todos a seguir de cerca este proyecto y a acompañarnos en este viaje hacia una mayor excelencia y reconocimiento en el mercado.
+
+
 
 ## Descripción del Conjunto de Datos
 
@@ -16,35 +40,31 @@ Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darde
 
 # Equipo de trabajo
 <h1 align="center">Data Engineering</h1>
-<div align="center">
+<div align="center" style="white-space: nowrap;">
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Felix.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Felix.jpeg" alt="Foto de Felix Santana" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Felix Santana</h3>
-  </div>
-  <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Jonathan.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Jonathan Gutiérrez</h3>
   </div>
 </div>
 <h1 align="center">Data Analytics</h1>
-<div align="center">
+<div align="center" style="white-space: nowrap;">
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Catalina.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Catalina.jpeg" alt="Foto de Catalina Castelblanco" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Catalina Castelblanco</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Andrew.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Andrew.jpeg" alt="Foto de Andres Mozo" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Andres Mozo</h3>
   </div>
 </div>
 <h1 align="center">Machine Learning</h1>
-<div align="center">
+<div align="center" style="white-space: nowrap;">
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Facundo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Facundo.jpeg" alt="Foto de Facundo Sagle" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Facundo Sagle</h3>
   </div>
   <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Marcelo.jpeg" alt="Foto de Persona 1" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/imagenes/Marcelo.jpeg" alt="Foto de Marcelo Trinkard" style="border-radius: 50%; width: 150px; height: 150px;">
     <h3>Marcelo Trinkard</h3>
   </div>  
 </div>
