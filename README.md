@@ -100,6 +100,20 @@ En el tercer sprint se busca tener los modelos de ML y el dashboard listo en la 
 - [`EDA_preliminar_YELP.ipynb`](notebooks/eda_yelp.ipynb)
 : Jupyter Notebook que contiene el código y la narrativa del análisis exploratorio de datos de los archivos de YELP
 
+
+## Dash board Intercativo
+
+<div align="center">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/imagen%20dashboard.jpeg" alt="Logo" >
+</div>
+
+## Bot reviews Darden 
+
+<div align="center">
+  <img src= "https://github.com/litcoininvestorbros/Henry_PF/blob/main/imagen%20bot.jpeg" alt="Logo" >
+</div>
+
+
 ## Tecnologias Utilizadas
 
 <a href="https://www.python.org/">
