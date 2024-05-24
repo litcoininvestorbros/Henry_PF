@@ -14,6 +14,8 @@
 
 
 
+
+
 ## Descripción del Proyecto
 
 Nos complace anunciar una emocionante colaboración entre Darden, la mayor empresa de restaurantes de servicio completo en Estados Unidos, e Insight Latinamerica. 
@@ -44,36 +46,10 @@ El conjunto de datos utilizado en este análisis contiene información sobre com
 
 Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darden en la región de Filadelfia y sus alrededores a través de la plataforma Yelp.
 
-# Equipo de trabajo
-<h1 align="center">Data Engineering</h1>
-<div align="center" style="white-space: nowrap;">
-  <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Felix.jpeg" alt="Foto de Felix Santana" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Felix Santana</h3>
-  </div>
+<div align="center">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/Banner%20Team.png" alt="Logo" >
 </div>
-<h1 align="center">Data Analytics</h1>
-<div align="center" style="white-space: nowrap;">
-  <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Catalina.jpeg" alt="Foto de Catalina Castelblanco" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Catalina Castelblanco</h3>
-  </div>
-  <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Andrew.jpeg" alt="Foto de Andres Mozo" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Andres Mozo</h3>
-  </div>
-</div>
-<h1 align="center">Machine Learning</h1>
-<div align="center" style="white-space: nowrap;">
-  <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Facundo.jpeg" alt="Foto de Facundo Sagle" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Facundo Sagle</h3>
-  </div>
-  <div style="display: inline-block; margin: 20px;">
-    <img src="assets/imagenes/Marcelo.jpeg" alt="Foto de Marcelo Trinkard" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h3>Marcelo Trinkard</h3>
-  </div>  
-</div>
+
 
 
 ## Plan de trabajo
