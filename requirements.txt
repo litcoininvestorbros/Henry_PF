@@ -4,11 +4,14 @@ geopandas
 geopy
 google-cloud-bigquery[pandas]
 matplotlib
+nbformat
 pandas
+plotly
 pyarrow
 pynecone
 rapidfuzz
 requests
+scikit-learn
 seaborn
 shapely
 sqlalchemy-bigquery

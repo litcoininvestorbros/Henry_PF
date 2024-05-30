@@ -41,7 +41,7 @@ def cargar_data_api_yelp(*args, **kwargs):
 
     for b_id in df_darden_y_comp['business_id'].tolist():
         reviews = get_data_yelp(b_id)
-        sleep(1.05)  # rate-limit, para evitar bloqueo de acceso API
+        sleep(0.26)  # rate-limit, para evitar bloqueo de acceso API
         
         if not reviews:
             continue
