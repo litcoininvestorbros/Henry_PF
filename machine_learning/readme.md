@@ -1,12 +1,14 @@
-## Análisis y manejo de reseñas con herramientas de Machine Learning 
+# Análisis y manejo de reseñas con herramientas de Machine Learning 
 
 La propuesta de mejora de la imagen del grupo Darden en Yelp, incluye el tratamiento de reseñas. Inicialmente se van a clasificar las reseñas según la calificación en estrellas que tenga cada una de ellas, para luego abordarlas según el siguiente criterio: Las reseñas positivas van a ser respondidas automáticamente por un Bot de respuesta. Las reseñas negativas van a ser analizadas para determinar puntos de mejora y luego serán respondidas de manera manual por personal de Darden. Se anexa a continuación un gráfico que resume el flujo de las reseñas:
 
 <div align="center">
-    <img src="../assets/imagenes/flujo_resenias.png" alt="flujo_reseñas" width="700">
+    <img src="../assets/imagenes/flujo_resenias.png" alt="flujo_reseñas" width="500">
 </div>
 
-### Reseñas Positivas:
+&nbsp;
+
+## Reseñas Positivas
 
 Para generar las respuestas automáticas a las reseñas positivas, después de varias pruebas y una investigación intesiva, se determinó que se podía implementar un modelo lingüistico grande, o "LLM" (Large Language Model) en inglés.  
 Estos modelos, desarrollados por las compañías líderes del mercado, ofrecen muchas variantes ajustadas con propósitos específicos "Fine Tune", realizadas por usuarios especializados y disponibles abiertamente para su utilización.  
@@ -14,7 +16,7 @@ En nuestro caso se optó por elegir el modelo Mistral-7B como base, y para no tr
 La extensión GGUF de los modelos los hace compatibles con la librería "ctransformers" de Python, que es la utilizada en este proyecto.  
 Finalmente, para mostrar y testear el modelo, se realizó un despliegue en un servidor propio, utilizando la librería Pynecone.  
 
-### Reseñas Negativas
+## Reseñas Negativas
 
 Para identificar aspectos negativos en las reseñas de restaurantes, se utilizó un conjunto de datos con más de 1500 reseñas clasificadas en 8 categorías distintas:
 1.	BadFood: Insatisfacción con la calidad de la comida.
