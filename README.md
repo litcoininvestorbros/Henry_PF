@@ -112,3 +112,9 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 <div align="center">
   <img src="assets/imagenes/stack_tecnologico.png" alt="Logo" width="700">
 </div>
+
+## Nuestro Equipo
+
+<div align="center">
+  <img src="assets/imagenes/banner_team.png" alt="Logo" width="700">
+</div>
