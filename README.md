@@ -1,24 +1,24 @@
+&nbsp;
 
 <div align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/Logo%20Insight%20Final.jpeg" alt="Logo" >
+  <img src="assets/imagenes/logo_insight_final.jpeg" alt="Logo" >
 </div>
 
-
+&nbsp;
 
 <h1 align='center'>
  <b>  Potenciación de la Visibilidad y Reputación de las Marcas Darden </b>
 </h1>
 
+<div align="center">
+  <img src="assets/imagenes/grupo_darden.jpg" alt="Grupo_Darden" >
+</div>
 
-![image](https://logodix.com/logo/2000271.jpg )
-
-
-
-
+&nbsp;
 
 ## Descripción del Proyecto
 
-Nos complace anunciar una emocionante colaboración entre Darden, la mayor empresa de restaurantes de servicio completo en Estados Unidos, e Insight Latinamerica. 
+Nos complace anunciar una emocionante colaboración entre Darden, la mayor empresa de restaurantes de servicio completo en Estados Unidos, e Insight Latinamerica.
 
 En Darden, la excelencia en el servicio y la pasión por deleitar a más de un millón de clientes cada día son fundamentales. Con un compromiso inquebrantable hacia sus miembros del equipo y las comunidades que sirven, Darden cuenta con un portafolio de nueve marcas icónicas que destacan en el mercado. En un mundo donde las expectativas sobre las empresas son cada vez mayores, especialmente en temas Ambientales, Sociales y de Gobernanza (ESG), Darden se esfuerza por marcar una diferencia significativa.
 
@@ -36,27 +36,28 @@ Contribuir al desarrollo local: Darden continuará siendo una fuerza positiva en
 
 Estamos entusiasmados por esta oportunidad de trabajar con Darden y confiamos en que esta iniciativa contribuirá a la creación de valor a largo plazo para sus accionistas, a la vez que refuerza su compromiso de servicio a sus clientes y comunidades. Invitamos a todos a seguir de cerca este proyecto y a acompañarnos en este viaje hacia una mayor excelencia y reconocimiento en el mercado.
 
+## Objetivo General
 
+### Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darden en la región de Filadelfia y sus alrededores a través de la plataforma Yelp.
 
 ## Descripción del Conjunto de Datos
 
-El conjunto de datos utilizado en este análisis contiene información sobre comentarios que los usuarios de google dejan sobre los establecimientos a los que la app de Google_Maps evidencia que estuvieron, si estos usuarios dejan sus calificaciones y comentarios, tambien existe una metadata la cual contiene toda la informacion acerca de los establecimientos, la cual nos fue util para identificar a que establecimiento hacia referencia el usuario.
+El conjunto de datos utilizado en este análisis contiene información sobre las "reseñas" que los usuarios de las plataformas Google Maps y Yelp dejan sobre los establecimientos a los que asisten. Y toda la metadata referente a estos establecimientos, como ubicación, horarios de apertura y cierre, y características varias como infraestructura, servicios, ambiente, etc.
 
-## Objetivo
 
-Potenciar la visibilidad y reputación de las marcas del grupo empresarial Darden en la región de Filadelfia y sus alrededores a través de la plataforma Yelp.
 
-<div align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/Banner%20Team%20(2).png" alt="Logo" >
+<div style="display: flex; gap: 40px; justify-content: center;">
+  <img src="assets/imagenes/g_maps_logo.jpg" alt="Google Maps" width="120">
+  <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
 </div>
 
 
 
 ## Plan de trabajo
 
-Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera.
+Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera:
 
-Para diagramar y organizar las tareas a realizar, elaboramos un diagrama de Gantt, en donde se indica el responsable mediante el color de la barra, si tiene a cargo un sector o un conjunto de sector el color será violeta, indicándose que sectores están involucrados, por otra parte, si está a cargo de una única persona en este grafico podemos identificar quien es quien debe realizarla. La extensión y ubicación de la barra indica el periodo de tiempo destinado para esta tarea. 
+Elaboramos un diagrama de Gantt, en donde se indica el responsable mediante el color de la barra, si tiene a cargo un sector o un conjunto de sector el color será violeta, indicándose que sectores están involucrados, por otra parte, si está a cargo de una única persona en este grafico podemos identificar quien es quien debe realizarla. La extensión y ubicación de la barra indica el periodo de tiempo destinado para esta tarea. 
 
 # Sprint 1
 Como se observa, el primer sprint fue destinado principalmente a poner en marcha el proyecto y hacer un análisis preliminar de los datos y las tecnologías a utilizar.
