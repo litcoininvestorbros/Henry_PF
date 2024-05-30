@@ -44,56 +44,50 @@ Estamos entusiasmados por esta oportunidad de trabajar con Darden y confiamos en
 
 El conjunto de datos utilizado en este análisis contiene información sobre las "reseñas" que los usuarios de las plataformas Google Maps y Yelp dejan sobre los establecimientos a los que asisten. Y toda la metadata referente a estos establecimientos, como ubicación, horarios de apertura y cierre, y características varias como infraestructura, servicios, ambiente, etc.
 
-
-
 <div style="display: flex; gap: 40px; justify-content: center;">
   <img src="assets/imagenes/g_maps_logo.jpg" alt="Google Maps" width="120">
   <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
 </div>
 
-
-
 ## Plan de trabajo
 
 Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera:
 
-Elaboramos un diagrama de Gantt, en donde se indica el responsable mediante el color de la barra, si tiene a cargo un sector o un conjunto de sector el color será violeta, indicándose que sectores están involucrados, por otra parte, si está a cargo de una única persona en este grafico podemos identificar quien es quien debe realizarla. La extensión y ubicación de la barra indica el periodo de tiempo destinado para esta tarea. 
+Elaboramos un diagrama de Gantt, en donde se indica el responsable de cada tarea mediante el color de la barra. Si la tarea está a cargo de más de una persona, el color de la barra será violeta. La extensión y ubicación de la barra indica el periodo de tiempo destinado para esta tarea.  
 
-# Sprint 1
+### Sprint 1
+
 Como se observa, el primer sprint fue destinado principalmente a poner en marcha el proyecto y hacer un análisis preliminar de los datos y las tecnologías a utilizar.
-
 
 <div align="center">
   <img src="assets/imagenes/sprint1.png" alt="Logo" >
 </div>
 
+### Sprint 2
 
-
-# Sprint 2
-En el segundo sprint los roles van a ser fundamentales, ya que a diferencia del primero que era más general, ahora cada sector tendrá tareas más específicas y relacionadas al rol definido. Sin embargo, al ser el objetivo principal de este sprint finalizar la infraestructura del proyecto, debe tratarse de forma prioritaria y los demás sectores deben  brindar soporte de ser necesario.
+En el segundo sprint los roles van a ser fundamentales, y cada sector tendrá tareas más específicas y relacionadas al rol definido. Sin embargo, al ser el objetivo principal de este sprint finalizar la infraestructura del proyecto, el sector de ingeniería de datos tendrá un rol prioritario y los demás sectores deben  brindar soporte en caso de ser necesario.
 
 <div align="center">
   <img src="assets/imagenes/sprint2.png" alt="Logo" >
 </div>
 
+### Sprint 3
 
-# Sprint 3
-
-En el tercer sprint se busca tener los modelos de ML y el dashboard listo en la primera semana para que en la segunda semana se pueda hacer un correcto storytelling y una presentación más elaborada que las anteriores.
+En el tercer sprint se busca tener los modelos de machine learning y el dashboard listos, haciendo foco en el story telling y en lograr presentación más que integre todo el proyecto de manera completa, concisa y profesional.
 
 <div align="center">
   <img src="assets/imagenes/sprint3.png" alt="Logo" >
 </div>
 
+&nbsp;
 
-
-## Flujo de datos
+## Pipeline - El camino de datos
 
 <div align="center">
   <img src="assets/imagenes/pipeline.jpg" alt="Logo" >
 </div>
 
-
+&nbsp;
 
 ## Analisis de los datos
 - [`EDA_preliminar_Google.ipynb`](notebooks/eda_google.ipynb)
