@@ -6,6 +6,10 @@ if 'test' not in globals():
     from mage_ai.data_preparation.decorators import test
 
 
+class PipelineTerminationException(Exception):
+    pass
+
+
 @custom
 def filtrar_reviews_duplicados(dfs: dict):
     """
@@ -46,8 +50,13 @@ def filtrar_reviews_duplicados(dfs: dict):
 
         # Agregar dataframe a dict de return
         dfs_output[company] = df
+    
+    if not dfs_output:
+        raise PipelineTerminationException(
+            "Todo review entrante via API es un duplicado."
+        )
 
-    return dfs_output if dfs_output else None
+    return dfs_output
 
 
 @test
