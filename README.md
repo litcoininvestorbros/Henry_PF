@@ -95,65 +95,20 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 - [`EDA_preliminar_YELP.ipynb`](notebooks/eda_yelp.ipynb)
 : Jupyter Notebook que contiene el código y la narrativa del análisis exploratorio de datos de los archivos de YELP
 
-
-## Dash board Intercativo
-
-<div align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/imagen%20dashboard.jpeg" alt="Logo" >
-</div>
-
-## Bot reviews Darden 
+## Dash board Intercativo  
 
 <div align="center">
-  <img src= "https://github.com/litcoininvestorbros/Henry_PF/blob/main/imagen%20bot.jpeg" alt="Logo" >
+  <img src="assets/imagenes/imagen_dashboard.jpeg" alt="Logo" width="700">
 </div>
 
+## Bot reviews Darden  
+
+<div align="center">
+  <img src= "assets/imagenes/imagen_bot.jpeg" alt="Logo" width="700">
+</div>
 
 ## Tecnologias Utilizadas
 
-<a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 80%; border: 1px solid #3776AB;">
-</a>
-<a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="border-radius: 50%; border: 1px solid #150458;">
-</a>
-<a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="border-radius: 50%; border: 1px solid #3776AB;">
-</a>
-<a href="https://seaborn.pydata.org/">
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" style="border-radius: 50%; border: 1px solid #3776AB;">
-</a>
-<a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="border-radius: 50 %; border: 1px solid #007ACC;">
-</a>
-<a href="https://cloud.google.com/">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" style="border-radius: 50%; border: 1px solid #4285F4;">
-</a>
-<a href="https://cloud.google.com/bigquery/">
-    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" style="border-radius: 50%; border: 1px solid #4285F4;">
-</a>
-<a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="border-radius: 50%; border: 1px solid #2496ED;">
-</a>
-<a href="https://cloud.google.com/ai-platform/">
-    <img src="https://img.shields.io/badge/ML_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="ML Engine" style="border-radius: 50%; border: 1px solid #4285F4;">
-</a>
-<a href="https://magefile.org/">
-    <img src="https://img.shields.io/badge/Mage-00ADD8?style=for-the-badge&logoColor=white" alt="Mage" style="border-radius: 50%; border: 1px solid #00ADD8;">
-</a>
-<a href="https://www.novipro.com/">
-    <img src="https://img.shields.io/badge/Novi_Pro-006DB9?style=for-the-badge&logoColor=white" alt="Novi Pro" style="border-radius: 50%; border: 1px solid #006DB9;">
-</a>
-<a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" alt="Power BI" style="border-radius: 50%; border: 1px solid #F2C811;">
-</a>
-<a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" style="border-radius: 50%; border: 1px solid #0052CC;">
-</a>
-<a href="https://www.canva.com/">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" style="border-radius: 50%; border: 1px solid #00C4CC;">
-</a>
-<a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 50%; border: 1px solid #181717;">
-</a>
-
+<div align="center">
+  <img src="assets/imagenes/stack_tecnologico.png" alt="Logo" width="700">
+</div>
