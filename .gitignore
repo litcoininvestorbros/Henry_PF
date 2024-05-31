@@ -6,7 +6,7 @@
 *keys.json
 *.log
 *.parquet
-*.pkl
+#*.pkl
 *.pickle
 *.txt
 **.yaml
