@@ -7,5 +7,3 @@ model_Q5 = AutoModelForCausalLM.from_pretrained("TheBloke/Mistral-7B-OpenOrca-GG
                                         reset=True,
                                         gpu_layers=0
                                         )
-
-model_Q5('Who are you?')
