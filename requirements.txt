@@ -30,7 +30,5 @@ reflex==0.5.0.post1
 # uso en `tests/`
 requests
 yelp
-
-#psycopg2-binary  # Uso en 'tests/'
-#sec_api  # uso API de la SEC
-
+#psycopg2-binary
+#sec_api
