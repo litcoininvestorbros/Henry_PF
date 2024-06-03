@@ -49,7 +49,7 @@ def cargar_data_api_yelp(*args, **kwargs):
         for i, r in enumerate(reviews):
             # Parse dia de la semana
             day = pd.to_datetime(r['time_created'])
-            day_nombres = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+            day_nombres = ['₁ Monday', '₂ Tuesday', '₃ Wednesday', '₄ Thursday', '₅ Friday', '₆ Saturday', '₇ Sunday']
 
             review = {
             'business_id': b_id,

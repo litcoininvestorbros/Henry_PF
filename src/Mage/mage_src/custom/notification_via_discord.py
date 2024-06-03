@@ -14,7 +14,7 @@ def transform_custom(dfs: dict) -> bool:
     """
     url = get_secret_value('DISCORD_WEBHOOK')
 
-    lista_msg = ["Reporte de {reviews_id} cargados a BQ:"]
+    lista_msg = ["Reporte de Reseñas Nuevas"]
     for company, df in dfs.items():
         lista_msg.append(f"{company.title()}: {df['review_id'].tolist()}")
 
