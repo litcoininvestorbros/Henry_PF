@@ -14,27 +14,26 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 - `/src`: El código fuente del proyecto.
 - `/tests`: Casos de prueba y scripts de pruebas.
 
-## Dir de recursos (`/assets`)
+## Dir de Recursos (`/assets`)
 - `imagenes/`: Contiene imangenes para uso en README.md.
 - Archivos Shapefile, imagenes, y otros recursos.
 
-## Dir de documentación (`/docs`)
-- `Google dataset - Diccionario.pdf`: 
-
-## Dir de notebooks (`/notebooks`)
-- `eda_google.ipynb`: 
-- `eda_yelp.ipynb`: 
-- `etl_categorias_a_csv.ipynb`: 
-- `etl_transforms_a_parquets.ipynb`: 
-- `exploracion_yelp.ipynb`: 
-
-## Dir de código fuente (`/src`)
+## Dir de Documentación (`/docs`)
 - `/`: 
 
-## Dir de pruebas (`/tests`)
+## Dir de Notebooks (`/notebooks`)
+- `EDA/`: Archivos tipo Jupyter Notebooks de análisis exploratorio de datos del datasets original.
+- `ETL/`:  Archivos tipo Jupyter Notebooks de extracción y transformación de datos del datasets original.
+- `conexion_bigquery.ipynb`: 
+- `KPIs_calculos.ipynb`: 
+
+## Dir de Código Fuente (`/src`)
 - `/`: 
 
-## Archivos de configuración
-- `.`: 
+## Dir de Pruebas (`/tests`)
+- `/`: 
+
+## Archivos de Configuración
+- `requirements.txt`: 
 
 
