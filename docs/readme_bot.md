@@ -25,7 +25,7 @@ Para esta implementación, usamos la librería `ctransformers` y el modelo `Mist
 Creamos una clase State que maneja el estado de la aplicación. Esta clase incluye métodos para obtener y restablecer respuestas basadas en reviews de clientes.
 
 <p align="center">
-  <img src="image-1.png" alt="Definición del Estado de la Aplicación">
+  <img src= https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image-1.png  alt="Definición del Estado de la Aplicación">
 </p>
 
 ## Pantalla de Bienvenida
