@@ -12,7 +12,7 @@ Para esta implementación, usamos la librería `ctransformers` y el modelo `Mist
 
 
 <p align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image-1.png" alt="Dependencias">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image.png" alt="Dependencias">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Creamos una clase State que maneja el estado de la aplicación. Esta clase inclu
 Definimos una función welcome para mostrar la pantalla de bienvenida.
 
 <p align="center">
-  <img src="image-2.png" alt="Pantalla de Bienvenida">
+  <img src= "https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image-2.png" alt="Pantalla de Bienvenida">
 </p>
 
 ## Pantalla Principal para Generar Respuestas
@@ -41,7 +41,7 @@ Definimos una función welcome para mostrar la pantalla de bienvenida.
 Definimos una función index que representa la pantalla principal donde los usuarios pueden ingresar una review y obtener una respuesta generada por el modelo.
 
 <p align="center">
-  <img src="image-3.png" alt="Pantalla Principal para Generar Respuestas">
+  <img src= "https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image-3.png" alt="Pantalla Principal para Generar Respuestas">
 </p>
 
 ## Configuración de la Aplicación
@@ -49,5 +49,5 @@ Definimos una función index que representa la pantalla principal donde los usua
 Finalmente, configuramos la aplicación, añadiendo las páginas de bienvenida y de generación de respuestas.
 
 <p align="center">
-  <img src="image-4.png" alt="Configuración de la Aplicación">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image-4.png" alt="Configuración de la Aplicación">
 </p>
