@@ -46,13 +46,10 @@ El conjunto de datos utilizado en este análisis contiene información sobre las
 
 
 <div align="center">
-  <img src="assets/imagenes/g_maps_logo.jpg" alt="Google Maps" width="120">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Imagen%20Yelp%20y%20Google.jpeg" alt="Google Maps" >
 </div>
 
   
-<div align="center">
-  <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
-</div>
 
 ## Plan de trabajo
 
