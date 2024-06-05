@@ -1,7 +1,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Logo%20Insight%20Final.jpeg" alt="Logo" width="300" height="200">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Logo%20Insight%20Final.jpeg" alt="Logo" width="400" height="400">
 </div>
 
 &nbsp;
