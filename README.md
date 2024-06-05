@@ -1,7 +1,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Logo%20Insight%20Final.jpeg" alt="Logo" >
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Logo%20Insight%20Final.jpeg" alt="Logo" width="300" height="200">
 </div>
 
 &nbsp;
@@ -105,7 +105,7 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 ## Dash board Intercativo  
 
 <div align="center">
-  <img src="assets/imagenes/imagen_dashboard.jpeg" alt="Logo" width="700">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Dashboard%20Final.jpeg" alt="Logo" width="700">
 </div>
 
 <p align="center">
