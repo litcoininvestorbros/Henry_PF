@@ -16,7 +16,7 @@ Para esta implementación, usamos la librería `ctransformers` y el modelo `Mist
 </p>
 
 <p align="center">
-  <img src="image-5.png" alt="Modelo de lenguaje">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image-5.png" alt="Modelo de lenguaje">
 </p>
 
 
