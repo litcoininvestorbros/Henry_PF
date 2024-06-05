@@ -82,7 +82,7 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 
 
 <div align="center">
-  <img src="assets/imagenes/sprint3-transformed.png" alt="Logo" >
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/sprint3-tranformed.png" alt="Logo" >
 </div>
 
 
