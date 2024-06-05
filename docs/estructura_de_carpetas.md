@@ -19,7 +19,7 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 - Archivos Shapefile, imagenes, y otros recursos.
 
 ## Dir de Documentación (`/docs`)
-- `/`: 
+- `/`: Contiene los archivos "Readme" de cada una de las etapas.
 
 ## Dir de Notebooks (`/notebooks`)
 - `EDA/`: Archivos tipo Jupyter Notebooks de análisis exploratorio de datos del datasets original.
