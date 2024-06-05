@@ -65,7 +65,7 @@ Elaboramos un diagrama de Gantt, en donde se indica el responsable de cada tarea
 Como se observa, el primer sprint fue destinado principalmente a poner en marcha el proyecto y hacer un análisis preliminar de los datos y las tecnologías a utilizar.
 
 <div align="center">
-  7<img src="assets/imagenes/sprint1-transformed.png" alt="Logo"   >
+  <img src="assets/imagenes/sprint1-transformed.png" alt="Logo"   >
 </div>
 
 ### Sprint 2
