@@ -115,7 +115,7 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 ## Review Classifier  
 
 <div align="center">
-  <img src= "assets/imagenes/imagen_bot.jpeg" alt="Logo" width="700">
+  <img src= "assets/imagenes/Review Classifier.jpeg" alt="Logo" width="700">
 </div>
 
 ## Tecnologias Utilizadas
