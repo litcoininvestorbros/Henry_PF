@@ -12,7 +12,7 @@ Para esta implementación, usamos la librería `ctransformers` y el modelo `Mist
 
 
 <p align="center">
-  <img src="image.png" alt="Dependencias">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/image-1.png" alt="Dependencias">
 </p>
 
 <p align="center">
