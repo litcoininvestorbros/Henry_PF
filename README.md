@@ -1,7 +1,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Insight_logo-removebg-preview-removebg-preview.png" alt="Logo" >
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Logo%20Insight%20Final.jpeg" alt="Logo" >
 </div>
 
 &nbsp;
@@ -80,9 +80,11 @@ En el segundo sprint los roles van a ser fundamentales, y cada sector tendrá ta
 
 En el tercer sprint se busca tener los modelos de machine learning y el dashboard listos, haciendo foco en el story telling y en lograr presentación más que integre todo el proyecto de manera completa, concisa y profesional.
 
+
 <div align="center">
   <img src="assets/imagenes/sprint3-transformed.png" alt="Logo" >
 </div>
+
 
 &nbsp;
 
