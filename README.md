@@ -108,17 +108,23 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
   <img src="assets/imagenes/imagen_dashboard.jpeg" alt="Logo" width="700">
 </div>
 
+[Ver el reporte en Looker Studio](https://lookerstudio.google.com/s/kq5HVZwoJVg)
+
 ## Bot reviews Darden  
 
 <div align="center">
   <img src= "assets/imagenes/imagen_bot.jpeg" alt="Logo" width="700">
 </div>
 
+[Acceder al bot](http://henrypf.ddns.net:3000/)
+
+
 ## Review Classifier  
 
 <div align="center">
   <img src= "assets/imagenes/Review Classifier.jpeg" alt="Logo" width="700">
 </div>
+
 
 ## Tecnologias Utilizadas
 
