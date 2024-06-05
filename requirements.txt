@@ -8,13 +8,13 @@ nbformat
 pandas
 plotly
 pyarrow
-pynecone
 rapidfuzz
 requests
 scikit-learn
 seaborn
 shapely
 sqlalchemy-bigquery
+wordcloud
 
 # para modelos ML
 huggingface_hub[cli]
