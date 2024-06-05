@@ -108,7 +108,9 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
   <img src="assets/imagenes/imagen_dashboard.jpeg" alt="Logo" width="700">
 </div>
 
-[Ver el reporte en Looker Studio](https://lookerstudio.google.com/s/kq5HVZwoJVg)
+<p align="center">
+  <a href="https://lookerstudio.google.com/s/kq5HVZwoJVg">Ver el reporte en Looker Studio</a> •
+</p>
 
 ## Bot reviews Darden  
 
@@ -116,7 +118,9 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
   <img src= "assets/imagenes/imagen_bot.jpeg" alt="Logo" width="700">
 </div>
 
-[Acceder al bot](http://henrypf.ddns.net:3000/)
+<p align="center">
+  <a href="http://henrypf.ddns.net:3000/">Acceder al bot</a>
+</p>
 
 
 ## Review Classifier  
