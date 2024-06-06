@@ -2,7 +2,8 @@
 
 ## Overview
 
-Este documento describe el camino que recorren, y los precesos que reciben los datos, desde su obtención hasta su disposición final en el warehouse, para ser utilizados.
+Este documento describe el camino que recorren, y los precesos que reciben los datos, desde su obtención hasta su disposición final en el warehouse, para ser utilizados.  
+El proyecto implementa una arquitectura híbrida de ETL (Extracción, Transformación y Carga) para extraer y procesar datos de diversas fuentes, utilizando BigQuery como data warehouse central del proyecto. Se compone de dos pipelines principales: uno gestionado localmente y otro automatizado mediante Mage.ai.
 
 ### Esquema Global
 
@@ -22,7 +23,7 @@ Los archivos fueron recibidos en formato Parquet y Json, desde un Drive comparti
     <img src="../assets/imagenes/archivos_yelp.jpg" alt="flujo_reseñas" width="300">
 </div>
 
-Estos archivos son tomados desde Google Cloud por Cloud Functions, y mediante código Python y la librería Pandas, son procesados y enviados a BigQuery.
+El pipeline ETL local se encarga de extraer datos del Google Drive compartido, transformarlos según las necesidades del negocio y cargarlos en tablas específicas en BigQuery. Los datos se almacenan en formato Parquet en Google Cloud Storage, que actúa como nuestro data lake.
 
 <div align="center">
     <img src="../assets/imagenes/cloud_function.jpg" alt="flujo_reseñas" width="300">
@@ -49,3 +50,12 @@ Finalmente, el lugar al que llegan todos los archivos, es BigQuery. Dentro de la
 <div align="center">
     <img src="../assets/imagenes/big_query.jpg" alt="flujo_reseñas" width="300">
 </div>
+
+#### Tecnologías Utilizadas
+
+- Python
+- Bibliotecas de manejo de datos: Pandas y Dask
+- Google Cloud SDK para interactuar con Cloud Storage y BigQuery
+- Google Cloud Function, vía triggers por HTTP
+- Mage.ai para la automatización del pipeline
+- API de Yelp para la extracción de datos
