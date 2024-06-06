@@ -16,6 +16,7 @@
 **.venv/
 data/
 misc/
+tests/
 *keys.json
 **/mage_data/**
 **/*.db
