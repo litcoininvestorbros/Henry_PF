@@ -30,6 +30,7 @@ Al agregar nuevos dirs o realizar cambios significativos en la estructura de dir
 ## Dir de Código Fuente (`/src`)
 - `Mage/`: Carpeta del programa Mage, que administra la orquestracion de flujos de datos.
 - `Reviews_Bot/`: Carpeta del programa Reviews_Bot, interfaz web para el modelo LLM que genera respuestas de reviews.
+- `Reviews_Bot/`: Funciones y scripts utilitarios.
 
 ## Archivos de Configuración
 - `requirements.txt`: Lista de librerias Python utilizadas en el proyecto.
