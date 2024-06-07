@@ -1,4 +1,4 @@
-from pprint import pformat
+from time import sleep
 from requests import post
 from mage_ai.data_preparation.shared.secrets import get_secret_value
 
@@ -14,17 +14,21 @@ def transform_custom(dfs: dict) -> bool:
     """
     url = get_secret_value('DISCORD_WEBHOOK')
 
-    lista_msg = ["Reporte de Reseñas Nuevas"]
+    lista_msg = ["__Reporte de Reseñas Nuevas__"]
     for company, df in dfs.items():
-        lista_msg.append(f"{company.title()}: {df['review_id'].tolist()}")
+        lista_msg.append(f"\n**{company.title()}**")
+        for item in df['review_id'].tolist():
+            lista_msg.append(item)
 
-    content = pformat(lista_msg)
-    try:
-        post(url, json={'username':'Mage', 'content':content})
-        return True
-    except Exception as e:
-        print(str(e))
-        return False
+    content = lista_msg
+    for c in content:
+        try:
+            post(url, json={'username':'Mage', 'content':c})
+            print(True)
+        except Exception as e:
+            print(str(e))
+            print(False)
+        sleep(1.26)
 
 
 @test
