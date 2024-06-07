@@ -94,10 +94,8 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 &nbsp;
 
 ## Analisis de los datos
-- [`EDA_preliminar_Google.ipynb`](notebooks/eda_google.ipynb)
-: Jupyter Notebook que contiene el código y la narrativa del análisis exploratorio de datos en el archivo de reviws suministrado por Google.
-- [`EDA_preliminar_YELP.ipynb`](notebooks/eda_yelp.ipynb)
-: Jupyter Notebook que contiene el código y la narrativa del análisis exploratorio de datos de los archivos de YELP
+- [`EDA_`](https://github.com/litcoininvestorbros/Henry_PF/tree/main/notebooks/EDA)
+: Carpeta con los Jupyter Notebooks que contienen el código y la narrativa del análisis exploratorio de datos en los archivos de reviews suministrado por Google y Yelp.
 
 ## Dash board Intercativo  
 
@@ -108,6 +106,13 @@ En el tercer sprint se busca tener los modelos de machine learning y el dashboar
 <p align="center">
   <a href="https://lookerstudio.google.com/s/kq5HVZwoJVg">Ver el reporte en Looker Studio</a> •
 </p>
+
+## Indicadores Clave de Rendimiento
+
+<div align="center">
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Imagen%20KPIs.jpeg" alt="Logo">
+</div>
+
 
 ## Bot reviews Darden  
 
